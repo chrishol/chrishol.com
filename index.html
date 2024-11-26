@@ -13,75 +13,94 @@
                     fontFamily: {
                         'sans': ['Open Sans', 'sans-serif'],
                         'serif': ['Amaranth', 'serif'],
-                    }
+                    },
+                    animation: {
+                        'gradient-x': 'gradient-x 10s ease infinite',
+                    },
+                    keyframes: {
+                        'gradient-x': {
+                            '0%, 100%': {
+                                'background-size': '200% 200%',
+                                'background-position': 'left center'
+                            },
+                            '50%': {
+                                'background-size': '200% 200%',
+                                'background-position': 'right center'
+                            }
+                        },
+                    },
                 }
             }
         }
     </script>
 </head>
-<body class="bg-slate-200 font-sans">
-    <div class="container max-w-screen-xl mx-auto px-4 py-8">
-        <header class="text-center pb-12 pt-12 md:pt-8">
-            <h1 class="text-4xl font-serif font-bold text-gray-800">Chris Hollindale</h1>
-            <p class="text-xl text-gray-600">San Francisco, California</p>
+<body class="bg-zinc-900 font-sans text-gray-300">
+    <div class="container max-w-screen-xl mx-auto px-8 md:px-4 py-8">
+        <header class="w-full bg-zinc-900 text-white text-center py-16 relative overflow-hidden">
+            <div class="container max-w-screen-xl mx-auto px-4 relative z-10">
+                <h1 class="text-5xl font-serif font-bold mb-2 bg-gradient-to-r from-teal-300 via-indigo-300 to-purple-300 text-transparent bg-clip-text animate-gradient-x">
+                    Chris Hollindale
+                </h1>
+                <p class="text-xl text-gray-300">San Francisco, California</p>
+            </div>
         </header>
 
         <main>
-            <section class="mb-12 bg-slate-100 rounded-2xl p-8 shadow-sm">
-                <h2 class="text-2xl font-serif font-bold text-gray-800 mb-4">About Me</h2>
-                <p class="text-gray-700">I was born in Chester in the United Kingdom, and grew up there before studying at the University of Oxford (St Anne's College). In 2013, I moved to San Francisco, California where I still live today. I've spent my whole career in technology and currently manage the Checkr Pay product & business at Checkr. Outside of work you will find me tinkering with technological side projects, playing & watching sports, and traveling as much as time allows.</p>
+            <section class="mb-12 bg-zinc-800 rounded-2xl p-8 shadow-md border-l-4 border-purple-500">
+                <h2 class="text-2xl font-serif font-bold text-purple-400 mb-4">About Me</h2>
+                <p>I was born in Chester in the United Kingdom, and grew up there before studying at the University of Oxford (St Anne's College). In 2013, I moved to San Francisco, California where I still live today. I've spent my whole career in technology and currently manage the Checkr Pay product & business at Checkr. Outside of work you will find me tinkering with technological side projects, playing & watching sports, and traveling as much as time allows.</p>
             </section>
 
-            <section class="container mx-auto mb-12">
+            <section class="w-full mb-12">
                 <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
-                  <div class="overflow-hidden rounded-lg shadow-lg">
-                    <img src="img/img001.jpg" alt="Description of photo 1" class="w-full h-64 object-cover">
-                    <div class="p-4 bg-white">
-                      <p class="text-gray-700">San Francisco City Hall, 2024</p>
+                  <div class="overflow-hidden rounded-lg shadow-lg bg-zinc-800">
+                    <img src="img/img001.jpg" alt="San Francisco City Hall, 2024" class="w-full h-64 object-cover">
+                    <div class="p-4">
+                      <p>San Francisco City Hall, 2024</p>
                     </div>
                   </div>
 
-                  <div class="overflow-hidden rounded-lg shadow-lg">
-                    <img src="img/img002.jpg" alt="Description of photo 2" class="w-full h-64 object-cover">
-                    <div class="p-4 bg-white">
-                      <p class="text-gray-700">Las Vegas, 2024</p>
+                  <div class="overflow-hidden rounded-lg shadow-lg bg-zinc-800">
+                    <img src="img/img002.jpg" alt="Las Vegas, 2024" class="w-full h-64 object-cover">
+                    <div class="p-4">
+                      <p>Las Vegas, 2024</p>
                     </div>
                   </div>
 
-                  <div class="overflow-hidden rounded-lg shadow-lg">
-                    <img src="img/img003.jpg" alt="Description of photo 3" class="w-full h-64 object-cover">
-                    <div class="p-4 bg-white">
-                      <p class="text-gray-700">Mendocino County, 2021</p>
+                  <div class="overflow-hidden rounded-lg shadow-lg bg-zinc-800">
+                    <img src="img/img003.jpg" alt="Mendocino County, 2021" class="w-full h-64 object-cover">
+                    <div class="p-4">
+                      <p>Mendocino County, 2021</p>
                     </div>
                   </div>
 
-                  <div class="overflow-hidden rounded-lg shadow-lg">
-                    <img src="img/img004.jpg" alt="Description of photo 4" class="w-full h-64 object-cover">
-                    <div class="p-4 bg-white">
-                      <p class="text-gray-700">San Francisco, 2017</p>
+                  <div class="overflow-hidden rounded-lg shadow-lg bg-zinc-800">
+                    <img src="img/img004.jpg" alt="San Francisco, 2017" class="w-full h-64 object-cover">
+                    <div class="p-4">
+                      <p>San Francisco, 2017</p>
                     </div>
                   </div>
 
-                  <div class="overflow-hidden rounded-lg shadow-lg">
-                    <img src="img/img005.jpg" alt="Description of photo 4" class="w-full h-64 object-cover">
-                    <div class="p-4 bg-white">
-                      <p class="text-gray-700">Treasure Island, 2015</p>
+                  <div class="overflow-hidden rounded-lg shadow-lg bg-zinc-800">
+                    <img src="img/img005.jpg" alt="Treasure Island, 2015" class="w-full h-64 object-cover">
+                    <div class="p-4">
+                      <p>Treasure Island, 2015</p>
                     </div>
                   </div>
 
-                  <div class="overflow-hidden rounded-lg shadow-lg">
-                    <img src="img/img006.jpg" alt="Description of photo 4" class="w-full h-64 object-cover">
-                    <div class="p-4 bg-white">
-                      <p class="text-gray-700">Oxford, 2009</p>
+                  <div class="overflow-hidden rounded-lg shadow-lg bg-zinc-800">
+                    <img src="img/img006.jpg" alt="Oxford, 2009" class="w-full h-64 object-cover">
+                    <div class="p-4">
+                      <p>Oxford, 2009</p>
                     </div>
                   </div>
                 </div>
-              </section>
+            </section>
 
-            <section class="mb-12 flex flex-col md:flex-row gap-8">
-                <div class="w-full md:w-1/2">
-                    <div class="flex-1 bg-slate-100 rounded-xl p-8 shadow-sm mb-8">
-                        <h2 class="text-2xl font-serif font-bold text-gray-800 mb-4">My Social Media</h2>
+            <section class="mb-8 flex flex-col md:flex-row gap-8">
+                <div class="flex flex-col w-full md:w-1/2">
+                    <h2 class="text-2xl font-serif font-bold text-indigo-400 mb-4">My Social Media</h2>
+                    <div class="flex-grow flex-1 bg-zinc-800 rounded-xl p-8 shadow-md border-t-4 border-indigo-400">
                         <div class="grid grid-cols-3 lg:grid-cols-5 gap-4 md:gap-8">
                             <div class="flex flex-col items-center">
                                 <a href="https://bsky.app/profile/chrishol.com" class="flex items-center justify-center mb-2" title="Bluesky">
@@ -119,53 +138,11 @@
                             </div>
                         </div>
                     </div>
-
-                    <div class="flex-1 bg-slate-100 rounded-xl p-8 shadow-sm">
-                        <h2 class="text-2xl font-serif font-bold text-gray-800 mb-4">Even More</h2>
-                        <div class="grid grid-cols-3 lg:grid-cols-5 gap-4 md:gap-8">
-                            <div class="flex flex-col items-center">
-                                <a href="https://github.com/chrishol" class="flex items-center justify-center mb-2" title="GitHub">
-                                    <img src="img/github-logo.png" alt="GitHub" class="w-16 h-16 rounded-full object-cover hover:opacity-80 transition-opacity">
-                                </a>
-                                <span class="text-sm text-center">GitHub</span>
-                            </div>
-
-                            <div class="flex flex-col items-center">
-                                <a href="https://last.fm/user/clhol" class="flex items-center justify-center mb-2" title="Last.fm">
-                                    <img src="img/lastfm-logo.png" alt="Last.fm" class="w-16 h-16 rounded-full object-cover hover:opacity-80 transition-opacity">
-                                </a>
-                                <span class="text-sm text-center">Last.fm</span>
-                            </div>
-
-                            <div class="flex flex-col items-center">
-                                <a href="https://recommendationoftheweek.substack.com" class="flex items-center justify-center mb-2" title="My Substack">
-                                    <img src="img/rotw-logo.png" alt="My Substack" class="w-16 h-16 rounded-full object-cover hover:opacity-80 transition-opacity">
-                                </a>
-                                <span class="text-sm text-center">My Substack</span>
-                            </div>
-
-                            <div class="flex flex-col items-center">
-                                <a href="https://chris.hollindale.co.uk" class="flex items-center justify-center mb-2" title="My Old Blog">
-                                    <img src="img/tumblr-logo.png" alt="My Old Blog" class="w-16 h-16 rounded-full object-cover hover:opacity-80 transition-opacity">
-                                </a>
-                                <span class="text-sm text-center">My Old Blog</span>
-                            </div>
-
-                            <div class="flex flex-col items-center">
-                                <a href="mailto:chris.hollindale@gmail.com" class="flex items-center justify-center mb-2" title="Send me an email">
-                                    <img src="img/email-logo.png" alt="Send me an email" class="w-16 h-16 rounded-full object-cover hover:opacity-80 transition-opacity">
-                                </a>
-                                <span class="text-sm text-center">Send me an email</span>
-                            </div>
-
-                            <!-- Email -->
-                        </div>
-                    </div>
                 </div>
 
-                <div class="w-full md:w-1/2">
-                    <div class="flex-1 bg-slate-100 rounded-xl p-8 shadow-sm mb-8">
-                        <h2 class="text-2xl font-serif font-bold text-gray-800 mb-4">Some Things I've Worked On</h2>
+                <div class="flex flex-col w-full md:w-1/2">
+                    <h2 class="text-2xl font-serif font-bold text-indigo-400 mb-4">Some Things I've Worked On</h2>
+                    <div class="flex-grow flex-1 bg-zinc-800 rounded-xl p-8 shadow-md border-t-4 border-indigo-400">
                         <div class="grid grid-cols-3 lg:grid-cols-5 gap-4 md:gap-8">
                             <div class="flex flex-col items-center">
                                 <a href="https://squareup.com/us/en/press/square-acquires-zesty-to-expand-caviar-s-corporate-catering-business" class="flex items-center justify-center mb-2" title="Zesty">
@@ -199,9 +176,55 @@
                             </div>
                         </div>
                     </div>
+                </div>
+            </section>
 
-                    <div class="flex-1 bg-slate-100 rounded-xl p-8 shadow-sm">
-                        <h2 class="text-2xl font-serif font-bold text-gray-800 mb-4">Some Teams I Follow</h2>
+            <section class="mb-8 flex flex-col md:flex-row gap-8">
+                <div class="flex flex-col  w-full md:w-1/2">
+                    <h2 class="text-2xl font-serif font-bold text-indigo-400 mb-4">Even More</h2>
+                    <div class="flex-grow flex-1 bg-zinc-800 rounded-xl p-8 shadow-md border-t-4 border-indigo-400">
+                        <div class="grid grid-cols-3 lg:grid-cols-5 gap-4 md:gap-8">
+                            <div class="flex flex-col items-center">
+                                <a href="https://github.com/chrishol" class="flex items-center justify-center mb-2" title="GitHub">
+                                    <img src="img/github-logo.png" alt="GitHub" class="w-16 h-16 rounded-full object-cover hover:opacity-80 transition-opacity">
+                                </a>
+                                <span class="text-sm text-center">GitHub</span>
+                            </div>
+
+                            <div class="flex flex-col items-center">
+                                <a href="https://last.fm/user/clhol" class="flex items-center justify-center mb-2" title="Last.fm">
+                                    <img src="img/lastfm-logo.png" alt="Last.fm" class="w-16 h-16 rounded-full object-cover hover:opacity-80 transition-opacity">
+                                </a>
+                                <span class="text-sm text-center">Last.fm</span>
+                            </div>
+
+                            <div class="flex flex-col items-center">
+                                <a href="https://www.goodreads.com/clhol" class="flex items-center justify-center mb-2" title="Goodreads">
+                                    <img src="img/goodreads-logo.png" alt="Goodreads" class="w-16 h-16 rounded-full object-cover hover:opacity-80 transition-opacity">
+                                </a>
+                                <span class="text-sm text-center">Goodreads</span>
+                            </div>
+
+                            <div class="flex flex-col items-center">
+                                <a href="https://recommendationoftheweek.substack.com" class="flex items-center justify-center mb-2" title="My Substack">
+                                    <img src="img/rotw-logo.png" alt="My Substack" class="w-16 h-16 rounded-full object-cover hover:opacity-80 transition-opacity">
+                                </a>
+                                <span class="text-sm text-center">My Substack</span>
+                            </div>
+
+                            <div class="flex flex-col items-center">
+                                <a href="https://chris.hollindale.co.uk" class="flex items-center justify-center mb-2" title="My Old Blog">
+                                    <img src="img/tumblr-logo.png" alt="My Old Blog" class="w-16 h-16 rounded-full object-cover hover:opacity-80 transition-opacity">
+                                </a>
+                                <span class="text-sm text-center">My Old Blog</span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="flex flex-col  w-full md:w-1/2">
+                    <h2 class="text-2xl font-serif font-bold text-indigo-400 mb-4">Some Teams I Follow</h2>
+                    <div class="flex-grow flex-1 bg-zinc-800 rounded-xl p-8 shadow-md border-t-4 border-indigo-400">
                         <div class="grid grid-cols-3 lg:grid-cols-5 gap-4 md:gap-8">
                             <div class="flex flex-col items-center">
                                 <a href="https://en.wikipedia.org/wiki/Nottingham_Forest_F.C." class="flex items-center justify-center mb-2" title="Nottingham Forest">
@@ -238,9 +261,11 @@
                 </div>
             </section>
 
-            <section class="mb-12">
-                <h2 class="text-2xl font-serif font-bold text-gray-800 mb-4">My Current Jam</h2>
-                <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/4NFptVazMTsSJTYvKENHJl?utm_source=generator&theme=0" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+            <section class="mb-8">
+                <h2 class="text-2xl font-serif font-bold text-purple-400 mb-4">My Current Jam</h2>
+                <div class="bg-zinc-800 rounded-2xl p-4 shadow-md">
+                    <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/4NFptVazMTsSJTYvKENHJl?utm_source=generator&theme=0" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+                </div>
             </section>
         </main>
     </div>
