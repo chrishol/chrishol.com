@@ -318,6 +318,49 @@
                         loading="lazy"></iframe>
                 </div>
             </section>
+
+            <section class="mb-8">
+                <h2 class="text-2xl font-serif font-bold text-teal-400 mb-4">My Top Tracks (Last 30 Days)</h2>
+                <div id="lastfm-tracks" class="bg-zinc-800 rounded-2xl p-4 shadow-md border-l-4 border-teal-500">
+                    <p class="text-gray-400">Loading your top tracks...</p>
+                </div>
+            </section>
+
+            <script>
+                async function fetchTopTracks() {
+                    try {
+                        const response = await fetch('top_tracks.json');
+                        if (!response.ok) throw new Error('Failed to fetch Last.fm data.');
+
+                        const tracks = await response.json();
+                        const tracksContainer = document.getElementById('lastfm-tracks');
+
+                        if (tracks && tracks.length > 0) {
+                            tracksContainer.innerHTML = tracks.map(track => `
+                                <div class="mb-4 flex items-start gap-4">
+                                    <img src="${track.img || 'img/default_album.png'}" alt="${track.name}" 
+                                        class="w-16 h-16 rounded shadow-md">
+                                    <div>
+                                        <p class="text-lg font-bold text-white">${track.name}</p>
+                                        <p class="text-sm text-gray-300">by ${track.artist}</p>
+                                        <a href="${track.url}" target="_blank" class="text-teal-400 hover:underline text-sm">
+                                            Listen on Last.fm
+                                        </a>
+                                    </div>
+                                </div>
+                            `).join('');
+                        } else {
+                            tracksContainer.innerHTML = '<p class="text-gray-400">No tracks available at the moment.</p>';
+                        }
+                    } catch (error) {
+                        console.error('Error fetching Last.fm data:', error);
+                        document.getElementById('lastfm-tracks').innerHTML = '<p class="text-red-400">Failed to load tracks.</p>';
+                    }
+                }
+
+                fetchTopTracks();
+            </script>
+
         </main>
     </div>
 </body>
