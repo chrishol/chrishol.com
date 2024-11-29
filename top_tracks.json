@@ -20,35 +20,19 @@
     "title": "To the Other Side",
     "artist": "Passion Pit",
     "url": "https://www.last.fm/music/Passion+Pit/_/To+the+Other+Side",
-    "img": null,
+    "img": "http://coverartarchive.org/release/9fca309b-0d13-4b86-89ad-437f58e1fd29/17970785510-250.jpg",
     "playcount": "9"
   },
   {
     "rank": 4,
-    "title": "Time",
-    "artist": "Angelo De Augustine",
-    "url": "https://www.last.fm/music/Angelo+De+Augustine/_/Time",
-    "img": null,
+    "title": "\"In the Valley\"",
+    "artist": "Ceres",
+    "url": "https://www.last.fm/music/Ceres/_/%22In+the+Valley%22",
+    "img": "http://coverartarchive.org/release/0a31a0b5-ebb6-4093-b5fc-529ccc965bc6/27369450844-250.jpg",
     "playcount": "8"
   },
   {
     "rank": 5,
-    "title": "Jacaranda",
-    "artist": "Blind Pilot",
-    "url": "https://www.last.fm/music/Blind+Pilot/_/Jacaranda",
-    "img": null,
-    "playcount": "8"
-  },
-  {
-    "rank": 6,
-    "title": "\"In the Valley\"",
-    "artist": "Ceres",
-    "url": "https://www.last.fm/music/Ceres/_/%22In+the+Valley%22",
-    "img": null,
-    "playcount": "8"
-  },
-  {
-    "rank": 7,
     "title": "Beach House",
     "artist": "dayDREAMers",
     "url": "https://www.last.fm/music/dayDREAMers/_/Beach+House",
@@ -56,27 +40,43 @@
     "playcount": "8"
   },
   {
-    "rank": 8,
-    "title": "Revelator",
-    "artist": "Phosphorescent",
-    "url": "https://www.last.fm/music/Phosphorescent/_/Revelator",
-    "img": "http://coverartarchive.org/release/937dcfa1-34af-4e0a-8918-910b45df5134/37976450824-250.jpg",
-    "playcount": "8"
-  },
-  {
-    "rank": 9,
+    "rank": 6,
     "title": "in the still",
     "artist": "Pronoun",
     "url": "https://www.last.fm/music/Pronoun/_/in+the+still",
-    "img": null,
+    "img": "http://coverartarchive.org/release/aa768e80-2f49-4b49-a89f-0688ed2734bd/18466336479-250.jpg",
     "playcount": "8"
   },
   {
-    "rank": 10,
+    "rank": 7,
     "title": "Watching the Waiting",
     "artist": "Wye Oak",
     "url": "https://www.last.fm/music/Wye+Oak/_/Watching+the+Waiting",
     "img": "http://coverartarchive.org/release/d8fcbe69-01eb-4088-bbba-847a9e57a922/34949148447-250.jpg",
     "playcount": "8"
+  },
+  {
+    "rank": 8,
+    "title": "Time",
+    "artist": "Angelo De Augustine",
+    "url": "https://www.last.fm/music/Angelo+De+Augustine/_/Time",
+    "img": "http://coverartarchive.org/release/6fe2530c-c249-46cb-9657-9c9c51ce3143/25640761373-250.jpg",
+    "playcount": "7"
+  },
+  {
+    "rank": 9,
+    "title": "Chateau",
+    "artist": "Angus & Julia Stone",
+    "url": "https://www.last.fm/music/Angus+&+Julia+Stone/_/Chateau",
+    "img": "http://coverartarchive.org/release/95383331-6e2c-4d34-84ae-fd3d2fe70bfe/32803536811-250.jpg",
+    "playcount": "7"
+  },
+  {
+    "rank": 10,
+    "title": "Jacaranda",
+    "artist": "Blind Pilot",
+    "url": "https://www.last.fm/music/Blind+Pilot/_/Jacaranda",
+    "img": "https://coverartarchive.org/release/73dcacd9-ba02-4258-a631-b047d47f4517/39680461456-250.jpg",
+    "playcount": "7"
   }
 ]
