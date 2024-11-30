@@ -322,7 +322,7 @@
             <section class="mb-8">
                 <h2 class="text-2xl font-serif font-bold text-teal-400 mb-4">My Top Tracks (Last 30 Days)</h2>
                 <div id="lastfm-tracks"
-                    class="bg-zinc-800 rounded-2xl p-4 shadow-md border-l-4 border-teal-500 grid grid-cols-2 md:grid-cols-3 gap-6">
+                    class="bg-zinc-800 rounded-2xl p-4 shadow-md border-l-4 border-teal-500 grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
                     <p class="text-gray-400">Loading your top tracks...</p>
                 </div>
             </section>
@@ -339,7 +339,7 @@
                         if (tracks && tracks.length > 0) {
                             tracksContainer.innerHTML = tracks.map(track => `
                                 <div class="mb-4 flex items-start gap-4">
-                                    <img src="${track.img || 'img/default_album.png'}" alt="${track.name}" 
+                                    <img src="${track.img || 'img/album-placeholder.png'}" alt="${track.name}"
                                         class="w-16 h-16 rounded shadow-md">
                                     <div>
                                         <p class="text-lg font-bold text-white">${track.rank}. ${track.title} (${track.playcount})</p>
