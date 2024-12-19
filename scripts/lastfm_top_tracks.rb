@@ -40,31 +40,32 @@ def get_image_url(mbid, title, artist, artist_mbid)
     releases&.map { |r| r['id'] }
   end.compact
 
-  if release_ids.empty?
-    return search_spotify_track_for_image(artist, title.gsub('"', ''))
-  end
-
-  release_ids.each do |release_id|
-    sleep 2
-
-    url = "https://coverartarchive.org/release/#{release_id}"
-    response = HTTParty.get(
-      url,
-      headers: {
-        'Accept' => 'application/json',
-        'Content-Type' => 'application/json',
-        'User-Agent' => ENV['USER_AGENT']
-      }
-    )
-
-    if response.success?
-      image_file = response.parsed_response['images'].find { |img| img['front'] }['thumbnails']['250']
-      if image_file && image_file != ''
-        return image_file
+  unless release_ids.empty?
+    release_ids.each do |release_id|
+      sleep 2
+  
+      url = "https://coverartarchive.org/release/#{release_id}"
+      response = HTTParty.get(
+        url,
+        headers: {
+          'Accept' => 'application/json',
+          'Content-Type' => 'application/json',
+          'User-Agent' => ENV['USER_AGENT']
+        }
+      )
+  
+      if response.success?
+        front_images = response.parsed_response['images'].find { |img| img['front'] }
+        image_file = front_images && front_images['thumbnails'] && && front_images['thumbnails']['250']
+        if image_file && image_file != ''
+          return image_file
+        end
+      else
+        puts "Error fetching data from Cover Art Archive. MBID: #{release_id}. Response: #{response.body}"
       end
-    else
-      puts "Error fetching data from Cover Art Archive. MBID: #{release_id}. Response: #{response.body}"
     end
+
+    return search_spotify_track_for_image(artist, title.gsub('"', ''))
   end
 end
 
