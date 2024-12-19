@@ -56,7 +56,7 @@ def get_image_url(mbid, title, artist, artist_mbid)
   
       if response.success?
         front_images = response.parsed_response['images'].find { |img| img['front'] }
-        image_file = front_images && front_images['thumbnails'] && && front_images['thumbnails']['250']
+        image_file = front_images && front_images['thumbnails'] && front_images['thumbnails']['250']
         if image_file && image_file != ''
           return image_file
         end
