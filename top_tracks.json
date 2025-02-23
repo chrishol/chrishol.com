@@ -5,10 +5,26 @@
     "artist": "Sam Fender",
     "url": "https://www.last.fm/music/Sam+Fender/_/Arm%27s+Length",
     "img": "https://coverartarchive.org/release/181413eb-7b92-43fb-a388-dda4428c78c2/41014514355-250.jpg",
-    "playcount": "10"
+    "playcount": "12"
   },
   {
     "rank": 2,
+    "title": "Wild Long Lie",
+    "artist": "Sam Fender",
+    "url": "https://www.last.fm/music/Sam+Fender/_/Wild+Long+Lie",
+    "img": "https://coverartarchive.org/release/24891ad4-b829-4f6b-8799-2940b390c533/40562644071-250.jpg",
+    "playcount": "8"
+  },
+  {
+    "rank": 3,
+    "title": "People Watching",
+    "artist": "Sam Fender",
+    "url": "https://www.last.fm/music/Sam+Fender/_/People+Watching",
+    "img": "https://coverartarchive.org/release/f50881c7-64f8-43c2-ab9d-0a54c5a20df7/40461129586-250.jpg",
+    "playcount": "7"
+  },
+  {
+    "rank": 4,
     "title": "Emotional",
     "artist": "Michigander",
     "url": "https://www.last.fm/music/Michigander/_/Emotional",
@@ -16,67 +32,51 @@
     "playcount": "6"
   },
   {
-    "rank": 3,
-    "title": "Wild Long Lie",
+    "rank": 5,
+    "title": "Chin Up",
     "artist": "Sam Fender",
-    "url": "https://www.last.fm/music/Sam+Fender/_/Wild+Long+Lie",
-    "img": "https://coverartarchive.org/release/24891ad4-b829-4f6b-8799-2940b390c533/40562644071-250.jpg",
+    "url": "https://www.last.fm/music/Sam+Fender/_/Chin+Up",
+    "img": "https://coverartarchive.org/release/925db061-52b6-4975-a5b2-691aaa3be137/40461155206-250.jpg",
     "playcount": "6"
   },
   {
-    "rank": 4,
-    "title": "Have Heaven",
-    "artist": "Florist",
-    "url": "https://www.last.fm/music/Florist/_/Have+Heaven",
-    "img": "https://coverartarchive.org/release/203c9f03-6b24-4a40-a560-9f4dd9ce49dc/40926766457-250.jpg",
-    "playcount": "5"
-  },
-  {
-    "rank": 5,
-    "title": "Ankles",
-    "artist": "Lucy Dacus",
-    "url": "https://www.last.fm/music/Lucy+Dacus/_/Ankles",
-    "img": "https://coverartarchive.org/release/9e71f7cb-89bd-4669-91ac-b3958912e452/40943224221-250.jpg",
-    "playcount": "5"
-  },
-  {
     "rank": 6,
-    "title": "Midwest Kid",
-    "artist": "Michael Marcagi",
-    "url": "https://www.last.fm/music/Michael+Marcagi/_/Midwest+Kid",
-    "img": "https://coverartarchive.org/release/faea3076-ae7a-435f-9547-a0c0118730d9/40966562787-250.jpg",
-    "playcount": "5"
+    "title": "Crumbling Empire",
+    "artist": "Sam Fender",
+    "url": "https://www.last.fm/music/Sam+Fender/_/Crumbling+Empire",
+    "img": "https://coverartarchive.org/release/925db061-52b6-4975-a5b2-691aaa3be137/40461155206-250.jpg",
+    "playcount": "6"
   },
   {
     "rank": 7,
-    "title": "Peace Of Mind",
-    "artist": "Michigander",
-    "url": "https://www.last.fm/music/Michigander/_/Peace+Of+Mind",
-    "img": "https://coverartarchive.org/release/37d0fbb6-ea38-426a-8009-804635c678f0/41149370081-250.jpg",
-    "playcount": "5"
+    "title": "Little Bit Closer",
+    "artist": "Sam Fender",
+    "url": "https://www.last.fm/music/Sam+Fender/_/Little+Bit+Closer",
+    "img": "https://coverartarchive.org/release/925db061-52b6-4975-a5b2-691aaa3be137/40461155206-250.jpg",
+    "playcount": "6"
   },
   {
     "rank": 8,
-    "title": "People Watching",
+    "title": "Nostalgia's Lie",
     "artist": "Sam Fender",
-    "url": "https://www.last.fm/music/Sam+Fender/_/People+Watching",
-    "img": "https://coverartarchive.org/release/f50881c7-64f8-43c2-ab9d-0a54c5a20df7/40461129586-250.jpg",
-    "playcount": "5"
+    "url": "https://www.last.fm/music/Sam+Fender/_/Nostalgia%27s+Lie",
+    "img": "https://coverartarchive.org/release/925db061-52b6-4975-a5b2-691aaa3be137/40461155206-250.jpg",
+    "playcount": "6"
   },
   {
     "rank": 9,
-    "title": "Brooklyn",
-    "artist": "The Midnight",
-    "url": "https://www.last.fm/music/The+Midnight/_/Brooklyn",
-    "img": "http://coverartarchive.org/release/18f37c42-7e91-443c-a027-e36e23ce9e6c/27511596920-250.jpg",
-    "playcount": "5"
+    "title": "Rein Me In",
+    "artist": "Sam Fender",
+    "url": "https://www.last.fm/music/Sam+Fender/_/Rein+Me+In",
+    "img": "https://coverartarchive.org/release/925db061-52b6-4975-a5b2-691aaa3be137/40461155206-250.jpg",
+    "playcount": "6"
   },
   {
     "rank": 10,
-    "title": "Tal Uno",
-    "artist": "Barrie",
-    "url": "https://www.last.fm/music/Barrie/_/Tal+Uno",
-    "img": "http://coverartarchive.org/release/40d3be57-85e9-466e-bc38-c66b978c87f3/32939398806-250.jpg",
-    "playcount": "4"
+    "title": "Remember My Name",
+    "artist": "Sam Fender",
+    "url": "https://www.last.fm/music/Sam+Fender/_/Remember+My+Name",
+    "img": "https://coverartarchive.org/release/925db061-52b6-4975-a5b2-691aaa3be137/40461155206-250.jpg",
+    "playcount": "6"
   }
 ]
