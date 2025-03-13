@@ -5,7 +5,7 @@
     "artist": "Momma",
     "url": "https://www.last.fm/music/Momma/_/Bottle+Blonde",
     "img": "https://coverartarchive.org/release/f2d26e66-a21f-45fb-b993-ba0162860693/41298194871-250.jpg",
-    "playcount": "24"
+    "playcount": "27"
   },
   {
     "rank": 2,
@@ -17,14 +17,6 @@
   },
   {
     "rank": 3,
-    "title": "Arm's Length",
-    "artist": "Sam Fender",
-    "url": "https://www.last.fm/music/Sam+Fender/_/Arm%27s+Length",
-    "img": "https://coverartarchive.org/release/181413eb-7b92-43fb-a388-dda4428c78c2/41014514355-250.jpg",
-    "playcount": "10"
-  },
-  {
-    "rank": 4,
     "title": "Little Bit Closer",
     "artist": "Sam Fender",
     "url": "https://www.last.fm/music/Sam+Fender/_/Little+Bit+Closer",
@@ -32,12 +24,20 @@
     "playcount": "10"
   },
   {
-    "rank": 5,
+    "rank": 4,
     "title": "Remember My Name",
     "artist": "Sam Fender",
     "url": "https://www.last.fm/music/Sam+Fender/_/Remember+My+Name",
     "img": "https://coverartarchive.org/release/925db061-52b6-4975-a5b2-691aaa3be137/40461155206-250.jpg",
     "playcount": "10"
+  },
+  {
+    "rank": 5,
+    "title": "Arm's Length",
+    "artist": "Sam Fender",
+    "url": "https://www.last.fm/music/Sam+Fender/_/Arm%27s+Length",
+    "img": "https://coverartarchive.org/release/181413eb-7b92-43fb-a388-dda4428c78c2/41014514355-250.jpg",
+    "playcount": "9"
   },
   {
     "rank": 6,
