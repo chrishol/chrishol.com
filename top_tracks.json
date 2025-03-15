@@ -9,14 +9,6 @@
   },
   {
     "rank": 2,
-    "title": "Emotional",
-    "artist": "Michigander",
-    "url": "https://www.last.fm/music/Michigander/_/Emotional",
-    "img": "https://coverartarchive.org/release/37d0fbb6-ea38-426a-8009-804635c678f0/41149370081-250.jpg",
-    "playcount": "11"
-  },
-  {
-    "rank": 3,
     "title": "Little Bit Closer",
     "artist": "Sam Fender",
     "url": "https://www.last.fm/music/Sam+Fender/_/Little+Bit+Closer",
@@ -24,12 +16,20 @@
     "playcount": "10"
   },
   {
-    "rank": 4,
+    "rank": 3,
     "title": "Remember My Name",
     "artist": "Sam Fender",
     "url": "https://www.last.fm/music/Sam+Fender/_/Remember+My+Name",
     "img": "https://coverartarchive.org/release/925db061-52b6-4975-a5b2-691aaa3be137/40461155206-250.jpg",
     "playcount": "10"
+  },
+  {
+    "rank": 4,
+    "title": "Emotional",
+    "artist": "Michigander",
+    "url": "https://www.last.fm/music/Michigander/_/Emotional",
+    "img": "https://coverartarchive.org/release/37d0fbb6-ea38-426a-8009-804635c678f0/41149370081-250.jpg",
+    "playcount": "9"
   },
   {
     "rank": 5,
