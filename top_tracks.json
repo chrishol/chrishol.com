@@ -25,22 +25,6 @@
   },
   {
     "rank": 4,
-    "title": "Emotional",
-    "artist": "Michigander",
-    "url": "https://www.last.fm/music/Michigander/_/Emotional",
-    "img": "https://coverartarchive.org/release/37d0fbb6-ea38-426a-8009-804635c678f0/41149370081-250.jpg",
-    "playcount": "9"
-  },
-  {
-    "rank": 5,
-    "title": "Arm's Length",
-    "artist": "Sam Fender",
-    "url": "https://www.last.fm/music/Sam+Fender/_/Arm%27s+Length",
-    "img": "https://coverartarchive.org/release/181413eb-7b92-43fb-a388-dda4428c78c2/41014514355-250.jpg",
-    "playcount": "9"
-  },
-  {
-    "rank": 6,
     "title": "TV Dinner",
     "artist": "Sam Fender",
     "url": "https://www.last.fm/music/Sam+Fender/_/TV+Dinner",
@@ -48,7 +32,7 @@
     "playcount": "9"
   },
   {
-    "rank": 7,
+    "rank": 5,
     "title": "Wild Long Lie",
     "artist": "Sam Fender",
     "url": "https://www.last.fm/music/Sam+Fender/_/Wild+Long+Lie",
@@ -56,7 +40,15 @@
     "playcount": "9"
   },
   {
-    "rank": 8,
+    "rank": 6,
+    "title": "Arm's Length",
+    "artist": "Sam Fender",
+    "url": "https://www.last.fm/music/Sam+Fender/_/Arm%27s+Length",
+    "img": "https://coverartarchive.org/release/181413eb-7b92-43fb-a388-dda4428c78c2/41014514355-250.jpg",
+    "playcount": "8"
+  },
+  {
+    "rank": 7,
     "title": "Chin Up",
     "artist": "Sam Fender",
     "url": "https://www.last.fm/music/Sam+Fender/_/Chin+Up",
@@ -64,7 +56,7 @@
     "playcount": "8"
   },
   {
-    "rank": 9,
+    "rank": 8,
     "title": "Crumbling Empire",
     "artist": "Sam Fender",
     "url": "https://www.last.fm/music/Sam+Fender/_/Crumbling+Empire",
@@ -72,10 +64,18 @@
     "playcount": "8"
   },
   {
-    "rank": 10,
+    "rank": 9,
     "title": "Nostalgia's Lie",
     "artist": "Sam Fender",
     "url": "https://www.last.fm/music/Sam+Fender/_/Nostalgia%27s+Lie",
+    "img": "https://coverartarchive.org/release/925db061-52b6-4975-a5b2-691aaa3be137/40461155206-250.jpg",
+    "playcount": "8"
+  },
+  {
+    "rank": 10,
+    "title": "Rein Me In",
+    "artist": "Sam Fender",
+    "url": "https://www.last.fm/music/Sam+Fender/_/Rein+Me+In",
     "img": "https://coverartarchive.org/release/925db061-52b6-4975-a5b2-691aaa3be137/40461155206-250.jpg",
     "playcount": "8"
   }
