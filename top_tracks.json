@@ -57,26 +57,26 @@
   },
   {
     "rank": 8,
-    "title": "Little Bit Closer",
-    "artist": "Sam Fender",
-    "url": "https://www.last.fm/music/Sam+Fender/_/Little+Bit+Closer",
-    "img": "https://coverartarchive.org/release/925db061-52b6-4975-a5b2-691aaa3be137/40461155206-250.jpg",
-    "playcount": "6"
-  },
-  {
-    "rank": 9,
-    "title": "Remember My Name",
-    "artist": "Sam Fender",
-    "url": "https://www.last.fm/music/Sam+Fender/_/Remember+My+Name",
-    "img": "https://coverartarchive.org/release/925db061-52b6-4975-a5b2-691aaa3be137/40461155206-250.jpg",
-    "playcount": "6"
-  },
-  {
-    "rank": 10,
     "title": "Phoenix",
     "artist": "Big Red Machine",
     "url": "https://www.last.fm/music/Big+Red+Machine/_/Phoenix",
     "img": "http://coverartarchive.org/release/bf05e42d-fc39-4e94-83b1-433708059d04/30211088887-250.jpg",
+    "playcount": "5"
+  },
+  {
+    "rank": 9,
+    "title": "Storm",
+    "artist": "Free Range",
+    "url": "https://www.last.fm/music/Free+Range/_/Storm",
+    "img": "http://coverartarchive.org/release/cc67a03d-ae45-4de3-8bb0-d11588b86864/10728421192-250.jpg",
+    "playcount": "5"
+  },
+  {
+    "rank": 10,
+    "title": "Stranger",
+    "artist": "Ken Pomeroy",
+    "url": "https://www.last.fm/music/Ken+Pomeroy/_/Stranger",
+    "img": "http://coverartarchive.org/release/af36b7c1-b6db-4d4e-a824-a7e3d6a74d59/35579999512-250.jpg",
     "playcount": "5"
   }
 ]
