@@ -9,14 +9,6 @@
   },
   {
     "rank": 2,
-    "title": "Emotional",
-    "artist": "Michigander",
-    "url": "https://www.last.fm/music/Michigander/_/Emotional",
-    "img": "https://coverartarchive.org/release/bf94b276-2339-4111-95ac-618c936128f2/41460043496-250.jpg",
-    "playcount": "7"
-  },
-  {
-    "rank": 3,
     "title": "After The Setting Sun",
     "artist": "The Head and the Heart",
     "url": "https://www.last.fm/music/The+Head+and+the+Heart/_/After+The+Setting+Sun",
@@ -24,7 +16,7 @@
     "playcount": "7"
   },
   {
-    "rank": 4,
+    "rank": 3,
     "title": "All Around You",
     "artist": "Watchhouse",
     "url": "https://www.last.fm/music/Watchhouse/_/All+Around+You",
@@ -32,7 +24,7 @@
     "playcount": "7"
   },
   {
-    "rank": 5,
+    "rank": 4,
     "title": "Tunnel Vision",
     "artist": "Beach Bunny",
     "url": "https://www.last.fm/music/Beach+Bunny/_/Tunnel+Vision",
@@ -40,7 +32,7 @@
     "playcount": "6"
   },
   {
-    "rank": 6,
+    "rank": 5,
     "title": "Nobody Meant To Slow You Down",
     "artist": "David Ramirez",
     "url": "https://www.last.fm/music/David+Ramirez/_/Nobody+Meant+To+Slow+You+Down",
@@ -48,11 +40,19 @@
     "playcount": "6"
   },
   {
-    "rank": 7,
+    "rank": 6,
     "title": "confession",
     "artist": "girl in red",
     "url": "https://www.last.fm/music/girl+in+red/_/confession",
     "img": "https://coverartarchive.org/release/83c99d4b-c433-4812-96a5-87a27a6b7187/41520201077-250.jpg",
+    "playcount": "6"
+  },
+  {
+    "rank": 7,
+    "title": "Emotional",
+    "artist": "Michigander",
+    "url": "https://www.last.fm/music/Michigander/_/Emotional",
+    "img": "https://coverartarchive.org/release/bf94b276-2339-4111-95ac-618c936128f2/41460043496-250.jpg",
     "playcount": "6"
   },
   {
