@@ -25,14 +25,6 @@
   },
   {
     "rank": 4,
-    "title": "Tunnel Vision",
-    "artist": "Beach Bunny",
-    "url": "https://www.last.fm/music/Beach+Bunny/_/Tunnel+Vision",
-    "img": "https://coverartarchive.org/release/f83571c0-eddd-42a3-9886-fb208c45865f/41238938581-250.jpg",
-    "playcount": "6"
-  },
-  {
-    "rank": 5,
     "title": "Nobody Meant To Slow You Down",
     "artist": "David Ramirez",
     "url": "https://www.last.fm/music/David+Ramirez/_/Nobody+Meant+To+Slow+You+Down",
@@ -40,7 +32,7 @@
     "playcount": "6"
   },
   {
-    "rank": 6,
+    "rank": 5,
     "title": "confession",
     "artist": "girl in red",
     "url": "https://www.last.fm/music/girl+in+red/_/confession",
@@ -48,15 +40,15 @@
     "playcount": "6"
   },
   {
-    "rank": 7,
-    "title": "Emotional",
-    "artist": "Michigander",
-    "url": "https://www.last.fm/music/Michigander/_/Emotional",
-    "img": "https://coverartarchive.org/release/bf94b276-2339-4111-95ac-618c936128f2/41460043496-250.jpg",
-    "playcount": "6"
+    "rank": 6,
+    "title": "Tunnel Vision",
+    "artist": "Beach Bunny",
+    "url": "https://www.last.fm/music/Beach+Bunny/_/Tunnel+Vision",
+    "img": "https://coverartarchive.org/release/f83571c0-eddd-42a3-9886-fb208c45865f/41238938581-250.jpg",
+    "playcount": "5"
   },
   {
-    "rank": 8,
+    "rank": 7,
     "title": "Phoenix",
     "artist": "Big Red Machine",
     "url": "https://www.last.fm/music/Big+Red+Machine/_/Phoenix",
@@ -64,7 +56,7 @@
     "playcount": "5"
   },
   {
-    "rank": 9,
+    "rank": 8,
     "title": "Storm",
     "artist": "Free Range",
     "url": "https://www.last.fm/music/Free+Range/_/Storm",
@@ -72,11 +64,19 @@
     "playcount": "5"
   },
   {
-    "rank": 10,
+    "rank": 9,
     "title": "Stranger",
     "artist": "Ken Pomeroy",
     "url": "https://www.last.fm/music/Ken+Pomeroy/_/Stranger",
     "img": "http://coverartarchive.org/release/af36b7c1-b6db-4d4e-a824-a7e3d6a74d59/35579999512-250.jpg",
+    "playcount": "5"
+  },
+  {
+    "rank": 10,
+    "title": "Pale Blue Eyes",
+    "artist": "Lucy Rose",
+    "url": "https://www.last.fm/music/Lucy+Rose/_/Pale+Blue+Eyes",
+    "img": "https://coverartarchive.org/release/419dac2c-46ab-4ced-91c0-99a1cf84e0a1/41300325168-250.jpg",
     "playcount": "5"
   }
 ]
