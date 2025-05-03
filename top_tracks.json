@@ -12,7 +12,7 @@
     "title": "Yellow",
     "artist": "Coldplay",
     "url": "https://www.last.fm/music/Coldplay/_/Yellow",
-    "img": "http://coverartarchive.org/release/684334ee-b77b-4543-be8d-06bc1fc735ed/37185887067-250.jpg",
+    "img": "http://coverartarchive.org/release/4efdcf83-f9c2-407b-959c-2696d80db876/29814064562-250.jpg",
     "playcount": "16"
   },
   {
@@ -49,14 +49,6 @@
   },
   {
     "rank": 7,
-    "title": "Rodeo",
-    "artist": "Momma",
-    "url": "https://www.last.fm/music/Momma/_/Rodeo",
-    "img": "https://coverartarchive.org/release/c81489c1-9ac7-47d9-8c86-5bf3509907c8/41063677434-250.jpg",
-    "playcount": "9"
-  },
-  {
-    "rank": 8,
     "title": "Tyrants",
     "artist": "Sam Fender",
     "url": "https://www.last.fm/music/Sam+Fender/_/Tyrants",
@@ -64,7 +56,7 @@
     "playcount": "8"
   },
   {
-    "rank": 9,
+    "rank": 8,
     "title": "Clueless",
     "artist": "Beach Bunny",
     "url": "https://www.last.fm/music/Beach+Bunny/_/Clueless",
@@ -72,11 +64,19 @@
     "playcount": "7"
   },
   {
-    "rank": 10,
+    "rank": 9,
     "title": "Vertigo",
     "artist": "Beach Bunny",
     "url": "https://www.last.fm/music/Beach+Bunny/_/Vertigo",
     "img": "https://coverartarchive.org/release/07b0a881-3a5e-4663-b74d-9ef82d5fdecf/41238958911-250.jpg",
+    "playcount": "7"
+  },
+  {
+    "rank": 10,
+    "title": "Rodeo",
+    "artist": "Momma",
+    "url": "https://www.last.fm/music/Momma/_/Rodeo",
+    "img": "https://coverartarchive.org/release/c81489c1-9ac7-47d9-8c86-5bf3509907c8/41063677434-250.jpg",
     "playcount": "7"
   }
 ]
