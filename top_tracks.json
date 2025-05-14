@@ -49,14 +49,6 @@
   },
   {
     "rank": 7,
-    "title": "如果爱忘了 (Live)",
-    "artist": "汪苏泷, 单依纯",
-    "url": "https://www.last.fm/music/%E6%B1%AA%E8%8B%8F%E6%B3%B7,+%E5%8D%95%E4%BE%9D%E7%BA%AF/_/%E5%A6%82%E6%9E%9C%E7%88%B1%E5%BF%98%E4%BA%86+(Live)",
-    "img": null,
-    "playcount": "9"
-  },
-  {
-    "rank": 8,
     "title": "Vertigo",
     "artist": "Beach Bunny",
     "url": "https://www.last.fm/music/Beach+Bunny/_/Vertigo",
@@ -64,19 +56,27 @@
     "playcount": "8"
   },
   {
-    "rank": 9,
-    "title": "Yellow",
-    "artist": "Coldplay",
-    "url": "https://www.last.fm/music/Coldplay/_/Yellow",
-    "img": "http://coverartarchive.org/release/8727c434-b737-408c-b73b-f862151c431b/22236080230-250.jpg",
-    "playcount": "8"
-  },
-  {
-    "rank": 10,
+    "rank": 8,
     "title": "Tunnel Vision",
     "artist": "Beach Bunny",
     "url": "https://www.last.fm/music/Beach+Bunny/_/Tunnel+Vision",
     "img": "https://coverartarchive.org/release/f83571c0-eddd-42a3-9886-fb208c45865f/41238938581-250.jpg",
     "playcount": "7"
+  },
+  {
+    "rank": 9,
+    "title": "Anthems For A Seventeen Year-Old Girl",
+    "artist": "Maggie Rogers, Sylvan Esso",
+    "url": "https://www.last.fm/music/Maggie+Rogers,+Sylvan+Esso/_/Anthems+For+A+Seventeen+Year-Old+Girl",
+    "img": "https://coverartarchive.org/release/1bf0c870-97e7-44ec-ac2e-2d15532bcd4e/41956855680-250.jpg",
+    "playcount": "6"
+  },
+  {
+    "rank": 10,
+    "title": "Hymn #35",
+    "artist": "Joe Pug",
+    "url": "https://www.last.fm/music/Joe+Pug/_/Hymn+%2335",
+    "img": "http://coverartarchive.org/release/5fd46464-19ae-4789-80d1-2cfdc4071df2/33884584167-250.jpg",
+    "playcount": "5"
   }
 ]
