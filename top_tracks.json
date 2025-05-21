@@ -4,7 +4,7 @@
     "title": "Anthems For A Seventeen Year-Old Girl",
     "artist": "Maggie Rogers and Sylvan Esso",
     "url": "https://www.last.fm/music/Maggie+Rogers+and+Sylvan+Esso/_/Anthems+For+A+Seventeen+Year-Old+Girl",
-    "img": "https://coverartarchive.org/release/bc030043-16ce-4acb-8954-f617faf51e8b/41809584661-250.jpg",
+    "img": "https://coverartarchive.org/release/1bf0c870-97e7-44ec-ac2e-2d15532bcd4e/41956855680-250.jpg",
     "playcount": "13"
   },
   {
@@ -57,6 +57,14 @@
   },
   {
     "rank": 8,
+    "title": "Open",
+    "artist": "Rhye",
+    "url": "https://www.last.fm/music/Rhye/_/Open",
+    "img": "http://coverartarchive.org/release/d288983e-d83c-435a-999f-c48172ad8d0b/17347616888-250.jpg",
+    "playcount": "8"
+  },
+  {
+    "rank": 9,
     "title": "Tunnel Vision",
     "artist": "Beach Bunny",
     "url": "https://www.last.fm/music/Beach+Bunny/_/Tunnel+Vision",
@@ -64,19 +72,11 @@
     "playcount": "7"
   },
   {
-    "rank": 9,
-    "title": "Open",
-    "artist": "Rhye",
-    "url": "https://www.last.fm/music/Rhye/_/Open",
-    "img": "http://coverartarchive.org/release/d288983e-d83c-435a-999f-c48172ad8d0b/17347616888-250.jpg",
-    "playcount": "7"
-  },
-  {
     "rank": 10,
-    "title": "Flannel Cowboy",
+    "title": "Days Getting Darker",
     "artist": "Ken Pomeroy",
-    "url": "https://www.last.fm/music/Ken+Pomeroy/_/Flannel+Cowboy",
-    "img": "http://coverartarchive.org/release/5be52c16-ba42-4036-8783-39ad32a98b5a/32861591224-250.jpg",
-    "playcount": "6"
+    "url": "https://www.last.fm/music/Ken+Pomeroy/_/Days+Getting+Darker",
+    "img": "https://coverartarchive.org/release/e410044e-0e1d-4edd-b8cf-4bab9628747e/41995936811-250.jpg",
+    "playcount": "7"
   }
 ]
