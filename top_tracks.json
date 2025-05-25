@@ -65,18 +65,18 @@
   },
   {
     "rank": 9,
-    "title": "Flannel Cowboy",
-    "artist": "Ken Pomeroy",
-    "url": "https://www.last.fm/music/Ken+Pomeroy/_/Flannel+Cowboy",
-    "img": "https://coverartarchive.org/release/e410044e-0e1d-4edd-b8cf-4bab9628747e/41995936811-250.jpg",
-    "playcount": "8"
-  },
-  {
-    "rank": 10,
     "title": "Tunnel Vision",
     "artist": "Beach Bunny",
     "url": "https://www.last.fm/music/Beach+Bunny/_/Tunnel+Vision",
     "img": "https://coverartarchive.org/release/f83571c0-eddd-42a3-9886-fb208c45865f/41238938581-250.jpg",
+    "playcount": "7"
+  },
+  {
+    "rank": 10,
+    "title": "Flannel Cowboy",
+    "artist": "Ken Pomeroy",
+    "url": "https://www.last.fm/music/Ken+Pomeroy/_/Flannel+Cowboy",
+    "img": "https://coverartarchive.org/release/e410044e-0e1d-4edd-b8cf-4bab9628747e/41995936811-250.jpg",
     "playcount": "7"
   }
 ]
