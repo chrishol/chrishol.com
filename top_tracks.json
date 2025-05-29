@@ -1,14 +1,6 @@
 [
   {
     "rank": 1,
-    "title": "Anthems For A Seventeen Year-Old Girl",
-    "artist": "Maggie Rogers and Sylvan Esso",
-    "url": "https://www.last.fm/music/Maggie+Rogers+and+Sylvan+Esso/_/Anthems+For+A+Seventeen+Year-Old+Girl",
-    "img": "https://coverartarchive.org/release/1bf0c870-97e7-44ec-ac2e-2d15532bcd4e/41956855680-250.jpg",
-    "playcount": "13"
-  },
-  {
-    "rank": 2,
     "title": "Days Getting Darker",
     "artist": "Ken Pomeroy",
     "url": "https://www.last.fm/music/Ken+Pomeroy/_/Days+Getting+Darker",
@@ -16,15 +8,7 @@
     "playcount": "12"
   },
   {
-    "rank": 3,
-    "title": "I Can Change Him",
-    "artist": "Jensen McRae",
-    "url": "https://www.last.fm/music/Jensen+McRae/_/I+Can+Change+Him",
-    "img": "https://coverartarchive.org/release/52217e0f-8a19-4567-b33b-b7ba7f2feb93/41247907966-250.jpg",
-    "playcount": "11"
-  },
-  {
-    "rank": 4,
+    "rank": 2,
     "title": "Open",
     "artist": "Rhye",
     "url": "https://www.last.fm/music/Rhye/_/Open",
@@ -32,51 +16,67 @@
     "playcount": "11"
   },
   {
-    "rank": 5,
+    "rank": 3,
     "title": "Clueless",
     "artist": "Beach Bunny",
     "url": "https://www.last.fm/music/Beach+Bunny/_/Clueless",
     "img": "https://coverartarchive.org/release/07b0a881-3a5e-4663-b74d-9ef82d5fdecf/41818222511-250.jpg",
-    "playcount": "10"
+    "playcount": "8"
   },
   {
-    "rank": 6,
+    "rank": 4,
+    "title": "I Can Change Him",
+    "artist": "Jensen McRae",
+    "url": "https://www.last.fm/music/Jensen+McRae/_/I+Can+Change+Him",
+    "img": "https://coverartarchive.org/release/52217e0f-8a19-4567-b33b-b7ba7f2feb93/41247907966-250.jpg",
+    "playcount": "8"
+  },
+  {
+    "rank": 5,
     "title": "Massachusetts",
     "artist": "Jensen McRae",
     "url": "https://www.last.fm/music/Jensen+McRae/_/Massachusetts",
     "img": "https://coverartarchive.org/release/78899740-6052-4c63-be7a-0ec7a552fc72/39060260549-250.jpg",
-    "playcount": "10"
-  },
-  {
-    "rank": 7,
-    "title": "Tyrants",
-    "artist": "Sam Fender",
-    "url": "https://www.last.fm/music/Sam+Fender/_/Tyrants",
-    "img": "https://coverartarchive.org/release/e81e8b34-f243-4b7f-af0e-ac094e6aa0c9/40959738547-250.jpg",
     "playcount": "8"
   },
   {
-    "rank": 8,
-    "title": "Vertigo",
-    "artist": "Beach Bunny",
-    "url": "https://www.last.fm/music/Beach+Bunny/_/Vertigo",
-    "img": "https://coverartarchive.org/release/07b0a881-3a5e-4663-b74d-9ef82d5fdecf/41818222511-250.jpg",
-    "playcount": "7"
+    "rank": 6,
+    "title": "Anthems For A Seventeen Year-Old Girl",
+    "artist": "Maggie Rogers and Sylvan Esso",
+    "url": "https://www.last.fm/music/Maggie+Rogers+and+Sylvan+Esso/_/Anthems+For+A+Seventeen+Year-Old+Girl",
+    "img": "https://coverartarchive.org/release/1bf0c870-97e7-44ec-ac2e-2d15532bcd4e/41956855680-250.jpg",
+    "playcount": "8"
   },
   {
-    "rank": 9,
-    "title": "Flannel Cowboy",
-    "artist": "Ken Pomeroy",
-    "url": "https://www.last.fm/music/Ken+Pomeroy/_/Flannel+Cowboy",
-    "img": "https://coverartarchive.org/release/e410044e-0e1d-4edd-b8cf-4bab9628747e/41995936811-250.jpg",
-    "playcount": "7"
-  },
-  {
-    "rank": 10,
+    "rank": 7,
     "title": "Video Games",
     "artist": "Lana Del Rey",
     "url": "https://www.last.fm/music/Lana+Del+Rey/_/Video+Games",
     "img": "http://coverartarchive.org/release/946d93ce-85a5-4dec-a2f6-db2a4ef9ef6d/19479118050-250.jpg",
     "playcount": "7"
+  },
+  {
+    "rank": 8,
+    "title": "the line",
+    "artist": "Trace Mountains",
+    "url": "https://www.last.fm/music/Trace+Mountains/_/the+line",
+    "img": "https://coverartarchive.org/release/dd624ee4-9f38-47ed-a1ba-1b580a7798f4/42033128096-250.jpg",
+    "playcount": "7"
+  },
+  {
+    "rank": 9,
+    "title": "Wild and Clear and Blue",
+    "artist": "I’m With Her, Sarah Jarosz, Aoife O’Donovan and Sara Watkins",
+    "url": "https://www.last.fm/music/I%E2%80%99m+With+Her,+Sarah+Jarosz,+Aoife+O%E2%80%99Donovan+and+Sara+Watkins/_/Wild+and+Clear+and+Blue",
+    "img": "https://coverartarchive.org/release/ed94dfb6-2a82-4b39-98dd-6d8ac01840d4/41999333598-250.jpg",
+    "playcount": "6"
+  },
+  {
+    "rank": 10,
+    "title": "Norman fucking Rockwell",
+    "artist": "Lana Del Rey",
+    "url": "https://www.last.fm/music/Lana+Del+Rey/_/Norman+fucking+Rockwell",
+    "img": "https://coverartarchive.org/release/b816ad6e-961d-4293-8a4e-f3e347274ed0/41592550028-250.jpg",
+    "playcount": "6"
   }
 ]
