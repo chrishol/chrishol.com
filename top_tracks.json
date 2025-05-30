@@ -17,38 +17,14 @@
   },
   {
     "rank": 3,
-    "title": "Clueless",
-    "artist": "Beach Bunny",
-    "url": "https://www.last.fm/music/Beach+Bunny/_/Clueless",
-    "img": "https://coverartarchive.org/release/07b0a881-3a5e-4663-b74d-9ef82d5fdecf/41818222511-250.jpg",
-    "playcount": "8"
+    "title": "Want/Need",
+    "artist": "Ceres",
+    "url": "https://www.last.fm/music/Ceres/_/Want%2FNeed",
+    "img": "https://coverartarchive.org/release/51a3795d-3e2c-494e-9410-b2fd7203ec1b/40470342009-250.jpg",
+    "playcount": "7"
   },
   {
     "rank": 4,
-    "title": "I Can Change Him",
-    "artist": "Jensen McRae",
-    "url": "https://www.last.fm/music/Jensen+McRae/_/I+Can+Change+Him",
-    "img": "https://coverartarchive.org/release/52217e0f-8a19-4567-b33b-b7ba7f2feb93/41247907966-250.jpg",
-    "playcount": "8"
-  },
-  {
-    "rank": 5,
-    "title": "Massachusetts",
-    "artist": "Jensen McRae",
-    "url": "https://www.last.fm/music/Jensen+McRae/_/Massachusetts",
-    "img": "https://coverartarchive.org/release/78899740-6052-4c63-be7a-0ec7a552fc72/39060260549-250.jpg",
-    "playcount": "8"
-  },
-  {
-    "rank": 6,
-    "title": "Anthems For A Seventeen Year-Old Girl",
-    "artist": "Maggie Rogers and Sylvan Esso",
-    "url": "https://www.last.fm/music/Maggie+Rogers+and+Sylvan+Esso/_/Anthems+For+A+Seventeen+Year-Old+Girl",
-    "img": "https://coverartarchive.org/release/1bf0c870-97e7-44ec-ac2e-2d15532bcd4e/41956855680-250.jpg",
-    "playcount": "8"
-  },
-  {
-    "rank": 7,
     "title": "Video Games",
     "artist": "Lana Del Rey",
     "url": "https://www.last.fm/music/Lana+Del+Rey/_/Video+Games",
@@ -56,7 +32,7 @@
     "playcount": "7"
   },
   {
-    "rank": 8,
+    "rank": 5,
     "title": "the line",
     "artist": "Trace Mountains",
     "url": "https://www.last.fm/music/Trace+Mountains/_/the+line",
@@ -64,19 +40,43 @@
     "playcount": "7"
   },
   {
+    "rank": 6,
+    "title": "1997",
+    "artist": "Ceres",
+    "url": "https://www.last.fm/music/Ceres/_/1997",
+    "img": "https://coverartarchive.org/release/51a3795d-3e2c-494e-9410-b2fd7203ec1b/40470342009-250.jpg",
+    "playcount": "6"
+  },
+  {
+    "rank": 7,
+    "title": "Britney Spears",
+    "artist": "Ceres",
+    "url": "https://www.last.fm/music/Ceres/_/Britney+Spears",
+    "img": "https://coverartarchive.org/release/51a3795d-3e2c-494e-9410-b2fd7203ec1b/40470342009-250.jpg",
+    "playcount": "6"
+  },
+  {
+    "rank": 8,
+    "title": "GUM",
+    "artist": "Ceres",
+    "url": "https://www.last.fm/music/Ceres/_/GUM",
+    "img": "https://coverartarchive.org/release/51a3795d-3e2c-494e-9410-b2fd7203ec1b/40470342009-250.jpg",
+    "playcount": "6"
+  },
+  {
     "rank": 9,
-    "title": "Wild and Clear and Blue",
-    "artist": "I’m With Her, Sarah Jarosz, Aoife O’Donovan and Sara Watkins",
-    "url": "https://www.last.fm/music/I%E2%80%99m+With+Her,+Sarah+Jarosz,+Aoife+O%E2%80%99Donovan+and+Sara+Watkins/_/Wild+and+Clear+and+Blue",
-    "img": "https://coverartarchive.org/release/ed94dfb6-2a82-4b39-98dd-6d8ac01840d4/41999333598-250.jpg",
+    "title": "Loss #1",
+    "artist": "Ceres",
+    "url": "https://www.last.fm/music/Ceres/_/Loss+%231",
+    "img": "https://coverartarchive.org/release/51a3795d-3e2c-494e-9410-b2fd7203ec1b/40470342009-250.jpg",
     "playcount": "6"
   },
   {
     "rank": 10,
-    "title": "Norman fucking Rockwell",
-    "artist": "Lana Del Rey",
-    "url": "https://www.last.fm/music/Lana+Del+Rey/_/Norman+fucking+Rockwell",
-    "img": "https://coverartarchive.org/release/b816ad6e-961d-4293-8a4e-f3e347274ed0/41592550028-250.jpg",
+    "title": "MAXi",
+    "artist": "Ceres",
+    "url": "https://www.last.fm/music/Ceres/_/MAXi",
+    "img": "https://coverartarchive.org/release/51a3795d-3e2c-494e-9410-b2fd7203ec1b/40470342009-250.jpg",
     "playcount": "6"
   }
 ]
