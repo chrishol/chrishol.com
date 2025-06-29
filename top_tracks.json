@@ -17,22 +17,6 @@
   },
   {
     "rank": 3,
-    "title": "The Scientist",
-    "artist": "Coldplay",
-    "url": "https://www.last.fm/music/Coldplay/_/The+Scientist",
-    "img": "http://coverartarchive.org/release/212fbb80-af33-4e56-8985-42b527a69009/30599996947-250.jpg",
-    "playcount": "7"
-  },
-  {
-    "rank": 4,
-    "title": "Yellow",
-    "artist": "Coldplay",
-    "url": "https://www.last.fm/music/Coldplay/_/Yellow",
-    "img": "https://coverartarchive.org/release/97977bff-23ef-4220-8d1f-374ea8ecc512/39772303157-250.jpg",
-    "playcount": "7"
-  },
-  {
-    "rank": 5,
     "title": "Darling",
     "artist": "Whitney",
     "url": "https://www.last.fm/music/Whitney/_/Darling",
@@ -40,15 +24,23 @@
     "playcount": "7"
   },
   {
-    "rank": 6,
-    "title": "Charlie Brown",
+    "rank": 4,
+    "title": "The Scientist",
     "artist": "Coldplay",
-    "url": "https://www.last.fm/music/Coldplay/_/Charlie+Brown",
-    "img": "http://coverartarchive.org/release/9bd3071b-0d30-4895-8a5e-9d6ff1c9b3e3/33505199315-250.jpg",
+    "url": "https://www.last.fm/music/Coldplay/_/The+Scientist",
+    "img": "http://coverartarchive.org/release/3ff9e1fb-9e7d-4604-96fc-aa6a004f6276/34785075743-250.jpg",
     "playcount": "6"
   },
   {
-    "rank": 7,
+    "rank": 5,
+    "title": "Yellow",
+    "artist": "Coldplay",
+    "url": "https://www.last.fm/music/Coldplay/_/Yellow",
+    "img": "http://coverartarchive.org/release/07ba0089-86e0-49b1-8617-7bc1fc3678ca/23888595526-250.jpg",
+    "playcount": "6"
+  },
+  {
+    "rank": 6,
     "title": "She Is (stripped)",
     "artist": "Soccer Mommy",
     "url": "https://www.last.fm/music/Soccer+Mommy/_/She+Is+(stripped)",
@@ -56,7 +48,7 @@
     "playcount": "6"
   },
   {
-    "rank": 8,
+    "rank": 7,
     "title": "Afterlife",
     "artist": "Alex G",
     "url": "https://www.last.fm/music/Alex+G/_/Afterlife",
@@ -64,7 +56,7 @@
     "playcount": "5"
   },
   {
-    "rank": 9,
+    "rank": 8,
     "title": "Fairview Feeling",
     "artist": "Caamp",
     "url": "https://www.last.fm/music/Caamp/_/Fairview+Feeling",
@@ -72,11 +64,19 @@
     "playcount": "5"
   },
   {
-    "rank": 10,
-    "title": "Higher Power",
+    "rank": 9,
+    "title": "Charlie Brown",
     "artist": "Coldplay",
-    "url": "https://www.last.fm/music/Coldplay/_/Higher+Power",
-    "img": "http://coverartarchive.org/release/5837cfcf-f826-418e-ad2c-43adf35168dd/35239921729-250.jpg",
+    "url": "https://www.last.fm/music/Coldplay/_/Charlie+Brown",
+    "img": "https://coverartarchive.org/release/7f17282e-d49a-4b92-abf6-b2ca75803f82/11469145880-250.jpg",
+    "playcount": "5"
+  },
+  {
+    "rank": 10,
+    "title": "Dear Maria",
+    "artist": "Joy Oladokun",
+    "url": "https://www.last.fm/music/Joy+Oladokun/_/Dear+Maria",
+    "img": "https://coverartarchive.org/release/4f0fcfec-177f-47eb-9121-022b37cc4bbb/38652636326-250.jpg",
     "playcount": "5"
   }
 ]
