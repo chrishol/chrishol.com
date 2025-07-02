@@ -5,7 +5,7 @@
     "artist": "Middle Kids",
     "url": "https://www.last.fm/music/Middle+Kids/_/Cause+=+Time",
     "img": "https://coverartarchive.org/release/d9b7bb0b-7b46-4b2e-a4c4-e9143060bf20/42100073201-250.jpg",
-    "playcount": "8"
+    "playcount": "6"
   },
   {
     "rank": 2,
@@ -17,22 +17,6 @@
   },
   {
     "rank": 3,
-    "title": "Darling",
-    "artist": "Whitney",
-    "url": "https://www.last.fm/music/Whitney/_/Darling",
-    "img": "https://coverartarchive.org/release/cb0d1ea3-eae6-46fb-89df-e828cb9a2514/42099617588-250.jpg",
-    "playcount": "6"
-  },
-  {
-    "rank": 4,
-    "title": "Afterlife",
-    "artist": "Alex G",
-    "url": "https://www.last.fm/music/Alex+G/_/Afterlife",
-    "img": "https://coverartarchive.org/release/0cb03d53-23fd-4391-9463-572ef503ab75/42141725077-250.jpg",
-    "playcount": "5"
-  },
-  {
-    "rank": 5,
     "title": "Fairview Feeling",
     "artist": "Caamp",
     "url": "https://www.last.fm/music/Caamp/_/Fairview+Feeling",
@@ -40,15 +24,15 @@
     "playcount": "5"
   },
   {
-    "rank": 6,
-    "title": "Sparks",
-    "artist": "Coldplay",
-    "url": "https://www.last.fm/music/Coldplay/_/Sparks",
-    "img": "http://coverartarchive.org/release/400a3878-4f2d-4904-b4d6-29c0d9c1a552/32222690832-250.jpg",
-    "playcount": "5"
+    "rank": 4,
+    "title": "Afterlife",
+    "artist": "Alex G",
+    "url": "https://www.last.fm/music/Alex+G/_/Afterlife",
+    "img": "https://coverartarchive.org/release/0cb03d53-23fd-4391-9463-572ef503ab75/42141725077-250.jpg",
+    "playcount": "4"
   },
   {
-    "rank": 7,
+    "rank": 5,
     "title": "Infinity Inside a Shopping Cart",
     "artist": "Attention Bird Utopia, Harrison Whitford and Eli Hirsch",
     "url": "https://www.last.fm/music/Attention+Bird+Utopia,+Harrison+Whitford+and+Eli+Hirsch/_/Infinity+Inside+a+Shopping+Cart",
@@ -56,7 +40,7 @@
     "playcount": "4"
   },
   {
-    "rank": 8,
+    "rank": 6,
     "title": "Birch",
     "artist": "Big Red Machine",
     "url": "https://www.last.fm/music/Big+Red+Machine/_/Birch",
@@ -64,7 +48,7 @@
     "playcount": "4"
   },
   {
-    "rank": 9,
+    "rank": 7,
     "title": "Forest Green",
     "artist": "Big Red Machine",
     "url": "https://www.last.fm/music/Big+Red+Machine/_/Forest+Green",
@@ -72,11 +56,27 @@
     "playcount": "4"
   },
   {
-    "rank": 10,
+    "rank": 8,
     "title": "Gratitude",
     "artist": "Big Red Machine",
     "url": "https://www.last.fm/music/Big+Red+Machine/_/Gratitude",
     "img": "https://coverartarchive.org/release/da1d1789-eff8-40fc-a52d-c8031f76d5b4/31283638720-250.jpg",
+    "playcount": "4"
+  },
+  {
+    "rank": 9,
+    "title": "Hymnostic",
+    "artist": "Big Red Machine",
+    "url": "https://www.last.fm/music/Big+Red+Machine/_/Hymnostic",
+    "img": "https://coverartarchive.org/release/da1d1789-eff8-40fc-a52d-c8031f76d5b4/31283638720-250.jpg",
+    "playcount": "4"
+  },
+  {
+    "rank": 10,
+    "title": "I Won't Run From It",
+    "artist": "Big Red Machine",
+    "url": "https://www.last.fm/music/Big+Red+Machine/_/I+Won%27t+Run+From+It",
+    "img": "http://coverartarchive.org/release/2c7aa5f5-d441-4c1c-a01e-5fc6938bea97/24663780359-250.jpg",
     "playcount": "4"
   }
 ]
