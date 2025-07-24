@@ -1,19 +1,19 @@
 [
   {
     "rank": 1,
+    "title": "Afterlife",
+    "artist": "Alex G",
+    "url": "https://www.last.fm/music/Alex+G/_/Afterlife",
+    "img": "https://coverartarchive.org/release/0cb03d53-23fd-4391-9463-572ef503ab75/42141725077-250.jpg",
+    "playcount": "7"
+  },
+  {
+    "rank": 2,
     "title": "reindeer games",
     "artist": "oso oso",
     "url": "https://www.last.fm/music/oso+oso/_/reindeer+games",
     "img": "http://coverartarchive.org/release/eac0a282-7519-4696-a7ca-3e240ff5599e/38189167085-250.jpg",
     "playcount": "7"
-  },
-  {
-    "rank": 2,
-    "title": "Afterlife",
-    "artist": "Alex G",
-    "url": "https://www.last.fm/music/Alex+G/_/Afterlife",
-    "img": "https://coverartarchive.org/release/0cb03d53-23fd-4391-9463-572ef503ab75/42141725077-250.jpg",
-    "playcount": "6"
   },
   {
     "rank": 3,
@@ -41,6 +41,14 @@
   },
   {
     "rank": 6,
+    "title": "Big Black Car",
+    "artist": "Gregory Alan Isakov",
+    "url": "https://www.last.fm/music/Gregory+Alan+Isakov/_/Big+Black+Car",
+    "img": "http://coverartarchive.org/release/d288983e-d83c-435a-999f-c48172ad8d0b/17347616888-250.jpg",
+    "playcount": "4"
+  },
+  {
+    "rank": 7,
     "title": "Sway",
     "artist": "Kacey Musgraves",
     "url": "https://www.last.fm/music/Kacey+Musgraves/_/Sway",
@@ -48,7 +56,7 @@
     "playcount": "4"
   },
   {
-    "rank": 7,
+    "rank": 8,
     "title": "pensacola",
     "artist": "oso oso",
     "url": "https://www.last.fm/music/oso+oso/_/pensacola",
@@ -56,19 +64,11 @@
     "playcount": "4"
   },
   {
-    "rank": 8,
+    "rank": 9,
     "title": "Living Well",
     "artist": "Donovan Woods",
     "url": "https://www.last.fm/music/Donovan+Woods/_/Living+Well",
     "img": "https://coverartarchive.org/release/0ba760b2-3d72-4117-9353-695bdac212cb/39338549334-250.jpg",
-    "playcount": "3"
-  },
-  {
-    "rank": 9,
-    "title": "Big Black Car",
-    "artist": "Gregory Alan Isakov",
-    "url": "https://www.last.fm/music/Gregory+Alan+Isakov/_/Big+Black+Car",
-    "img": "http://coverartarchive.org/release/99889c8f-e90c-43c6-8b81-85d2c20548b2/27772171846-250.jpg",
     "playcount": "3"
   },
   {
