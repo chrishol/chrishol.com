@@ -17,14 +17,6 @@
   },
   {
     "rank": 3,
-    "title": "reindeer games",
-    "artist": "oso oso",
-    "url": "https://www.last.fm/music/oso+oso/_/reindeer+games",
-    "img": "https://i.scdn.co/image/ab67616d0000b273066c9179781cbc06c449b001",
-    "playcount": "7"
-  },
-  {
-    "rank": 4,
     "title": "Afterlife",
     "artist": "Alex G",
     "url": "https://www.last.fm/music/Alex+G/_/Afterlife",
@@ -32,7 +24,7 @@
     "playcount": "6"
   },
   {
-    "rank": 5,
+    "rank": 4,
     "title": "I'm in Love",
     "artist": "S.G. Goodman",
     "url": "https://www.last.fm/music/S.G.+Goodman/_/I%27m+in+Love",
@@ -40,23 +32,7 @@
     "playcount": "6"
   },
   {
-    "rank": 6,
-    "title": "pensacola",
-    "artist": "oso oso",
-    "url": "https://www.last.fm/music/oso+oso/_/pensacola",
-    "img": "https://i.scdn.co/image/ab67616d0000b27397bd7ba49c16e664e55df2b3",
-    "playcount": "5"
-  },
-  {
-    "rank": 7,
-    "title": "The View",
-    "artist": "oso oso",
-    "url": "https://www.last.fm/music/oso+oso/_/The+View",
-    "img": "https://i.scdn.co/image/ab67616d0000b2734bb096b9cc76e7342fe65a8d",
-    "playcount": "5"
-  },
-  {
-    "rank": 8,
+    "rank": 5,
     "title": "Oranges",
     "artist": "Alex G",
     "url": "https://www.last.fm/music/Alex+G/_/Oranges",
@@ -64,7 +40,7 @@
     "playcount": "4"
   },
   {
-    "rank": 9,
+    "rank": 6,
     "title": "Long After Midnight",
     "artist": "Flock of Dimes",
     "url": "https://www.last.fm/music/Flock+of+Dimes/_/Long+After+Midnight",
@@ -72,11 +48,35 @@
     "playcount": "4"
   },
   {
-    "rank": 10,
+    "rank": 7,
     "title": "Personally",
     "artist": "Kamran Khan",
     "url": "https://www.last.fm/music/Kamran+Khan/_/Personally",
     "img": "https://i.scdn.co/image/ab67616d0000b273f3b25e370ff69f63c5161ee6",
     "playcount": "4"
+  },
+  {
+    "rank": 8,
+    "title": "Beam Me Up",
+    "artist": "Alex G",
+    "url": "https://www.last.fm/music/Alex+G/_/Beam+Me+Up",
+    "img": "https://i.scdn.co/image/ab67616d0000b27362c14a7a1f0606f257409f2f",
+    "playcount": "3"
+  },
+  {
+    "rank": 9,
+    "title": "Bounce Boy",
+    "artist": "Alex G",
+    "url": "https://www.last.fm/music/Alex+G/_/Bounce+Boy",
+    "img": "https://i.scdn.co/image/ab67616d0000b27362c14a7a1f0606f257409f2f",
+    "playcount": "3"
+  },
+  {
+    "rank": 10,
+    "title": "Far and Wide",
+    "artist": "Alex G",
+    "url": "https://www.last.fm/music/Alex+G/_/Far+and+Wide",
+    "img": "https://i.scdn.co/image/ab67616d0000b27362c14a7a1f0606f257409f2f",
+    "playcount": "3"
   }
 ]
