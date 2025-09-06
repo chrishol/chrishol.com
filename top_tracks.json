@@ -9,14 +9,6 @@
   },
   {
     "rank": 2,
-    "title": "Mother, Pray For Me",
-    "artist": "The Beths",
-    "url": "https://www.last.fm/music/The+Beths/_/Mother,+Pray+For+Me",
-    "img": "https://i.scdn.co/image/ab67616d0000b273b7c4b75ba83ae40f5bc30688",
-    "playcount": "10"
-  },
-  {
-    "rank": 3,
     "title": "Afterlife",
     "artist": "Alex G",
     "url": "https://www.last.fm/music/Alex+G/_/Afterlife",
@@ -24,11 +16,19 @@
     "playcount": "8"
   },
   {
-    "rank": 4,
+    "rank": 3,
     "title": "Yellow",
     "artist": "Coldplay",
     "url": "https://www.last.fm/music/Coldplay/_/Yellow",
     "img": "https://i.scdn.co/image/ab67616d0000b2739164bafe9aaa168d93f4816a",
+    "playcount": "8"
+  },
+  {
+    "rank": 4,
+    "title": "Mother, Pray For Me",
+    "artist": "The Beths",
+    "url": "https://www.last.fm/music/The+Beths/_/Mother,+Pray+For+Me",
+    "img": "https://i.scdn.co/image/ab67616d0000b273b7c4b75ba83ae40f5bc30688",
     "playcount": "8"
   },
   {
@@ -65,18 +65,18 @@
   },
   {
     "rank": 9,
-    "title": "Long After Midnight",
-    "artist": "Flock of Dimes",
-    "url": "https://www.last.fm/music/Flock+of+Dimes/_/Long+After+Midnight",
-    "img": "https://i.scdn.co/image/ab67616d0000b273c46d035ac9c03957d69f82d2",
-    "playcount": "4"
-  },
-  {
-    "rank": 10,
     "title": "Peripheral Lover",
     "artist": "Gordi",
     "url": "https://www.last.fm/music/Gordi/_/Peripheral+Lover",
     "img": "https://i.scdn.co/image/ab67616d0000b27341ee97fa581524b361d765d8",
+    "playcount": "4"
+  },
+  {
+    "rank": 10,
+    "title": "Emily",
+    "artist": "Racing Mount Pleasant",
+    "url": "https://www.last.fm/music/Racing+Mount+Pleasant/_/Emily",
+    "img": "https://i.scdn.co/image/ab67616d0000b27352501e69190f5d7b6c9f7ab3",
     "playcount": "4"
   }
 ]
