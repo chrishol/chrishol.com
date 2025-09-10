@@ -5,7 +5,7 @@
     "artist": "Alex G",
     "url": "https://www.last.fm/music/Alex+G/_/June+Guitar",
     "img": "https://i.scdn.co/image/ab67616d0000b27362c14a7a1f0606f257409f2f",
-    "playcount": "13"
+    "playcount": "12"
   },
   {
     "rank": 2,
@@ -33,18 +33,18 @@
   },
   {
     "rank": 5,
-    "title": "Metal",
-    "artist": "The Beths",
-    "url": "https://www.last.fm/music/The+Beths/_/Metal",
-    "img": "https://i.scdn.co/image/ab67616d0000b273b7c4b75ba83ae40f5bc30688",
-    "playcount": "7"
-  },
-  {
-    "rank": 6,
     "title": "Racing Mount Pleasant",
     "artist": "Racing Mount Pleasant",
     "url": "https://www.last.fm/music/Racing+Mount+Pleasant/_/Racing+Mount+Pleasant",
     "img": "https://i.scdn.co/image/ab67616d0000b27352501e69190f5d7b6c9f7ab3",
+    "playcount": "6"
+  },
+  {
+    "rank": 6,
+    "title": "Metal",
+    "artist": "The Beths",
+    "url": "https://www.last.fm/music/The+Beths/_/Metal",
+    "img": "https://i.scdn.co/image/ab67616d0000b273b7c4b75ba83ae40f5bc30688",
     "playcount": "6"
   },
   {
