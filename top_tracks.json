@@ -1,22 +1,6 @@
 [
   {
     "rank": 1,
-    "title": "June Guitar",
-    "artist": "Alex G",
-    "url": "https://www.last.fm/music/Alex+G/_/June+Guitar",
-    "img": "https://i.scdn.co/image/ab67616d0000b27362c14a7a1f0606f257409f2f",
-    "playcount": "12"
-  },
-  {
-    "rank": 2,
-    "title": "Afterlife",
-    "artist": "Alex G",
-    "url": "https://www.last.fm/music/Alex+G/_/Afterlife",
-    "img": "https://i.scdn.co/image/ab67616d0000b27362c14a7a1f0606f257409f2f",
-    "playcount": "8"
-  },
-  {
-    "rank": 3,
     "title": "Yellow",
     "artist": "Coldplay",
     "url": "https://www.last.fm/music/Coldplay/_/Yellow",
@@ -24,15 +8,23 @@
     "playcount": "8"
   },
   {
-    "rank": 4,
+    "rank": 2,
     "title": "Mother, Pray For Me",
     "artist": "The Beths",
     "url": "https://www.last.fm/music/The+Beths/_/Mother,+Pray+For+Me",
     "img": "https://i.scdn.co/image/ab67616d0000b273b7c4b75ba83ae40f5bc30688",
-    "playcount": "8"
+    "playcount": "7"
   },
   {
-    "rank": 5,
+    "rank": 3,
+    "title": "June Guitar",
+    "artist": "Alex G",
+    "url": "https://www.last.fm/music/Alex+G/_/June+Guitar",
+    "img": "https://i.scdn.co/image/ab67616d0000b27362c14a7a1f0606f257409f2f",
+    "playcount": "6"
+  },
+  {
+    "rank": 4,
     "title": "Racing Mount Pleasant",
     "artist": "Racing Mount Pleasant",
     "url": "https://www.last.fm/music/Racing+Mount+Pleasant/_/Racing+Mount+Pleasant",
@@ -40,42 +32,50 @@
     "playcount": "6"
   },
   {
-    "rank": 6,
+    "rank": 5,
     "title": "Metal",
     "artist": "The Beths",
     "url": "https://www.last.fm/music/The+Beths/_/Metal",
     "img": "https://i.scdn.co/image/ab67616d0000b273b7c4b75ba83ae40f5bc30688",
-    "playcount": "6"
-  },
-  {
-    "rank": 7,
-    "title": "Disintegrate (Edit)",
-    "artist": "Wild Pink, Fenne Lily",
-    "url": "https://www.last.fm/music/Wild+Pink,+Fenne+Lily/_/Disintegrate+(Edit)",
-    "img": "https://i.scdn.co/image/ab67616d0000b273c7f289437ec13a849f849621",
     "playcount": "5"
   },
   {
-    "rank": 8,
-    "title": "Oranges",
+    "rank": 6,
+    "title": "Afterlife",
     "artist": "Alex G",
-    "url": "https://www.last.fm/music/Alex+G/_/Oranges",
+    "url": "https://www.last.fm/music/Alex+G/_/Afterlife",
     "img": "https://i.scdn.co/image/ab67616d0000b27362c14a7a1f0606f257409f2f",
     "playcount": "4"
   },
   {
+    "rank": 7,
+    "title": "Emily",
+    "artist": "Racing Mount Pleasant",
+    "url": "https://www.last.fm/music/Racing+Mount+Pleasant/_/Emily",
+    "img": "https://i.scdn.co/image/ab67616d0000b27352501e69190f5d7b6c9f7ab3",
+    "playcount": "4"
+  },
+  {
+    "rank": 8,
+    "title": "Heavy Red",
+    "artist": "Racing Mount Pleasant",
+    "url": "https://www.last.fm/music/Racing+Mount+Pleasant/_/Heavy+Red",
+    "img": "https://i.scdn.co/image/ab67616d0000b27352501e69190f5d7b6c9f7ab3",
+    "playcount": "4"
+  },
+  {
     "rank": 9,
-    "title": "Peripheral Lover",
-    "artist": "Gordi",
-    "url": "https://www.last.fm/music/Gordi/_/Peripheral+Lover",
-    "img": "https://i.scdn.co/image/ab67616d0000b27341ee97fa581524b361d765d8",
+    "title": "Seminary",
+    "artist": "Racing Mount Pleasant",
+    "url": "https://www.last.fm/music/Racing+Mount+Pleasant/_/Seminary",
+    "img": "https://i.scdn.co/image/ab67616d0000b27352501e69190f5d7b6c9f7ab3",
     "playcount": "4"
   },
   {
     "rank": 10,
-    "title": "Emily",
+    "title": "Tenspeed (Shallows)",
     "artist": "Racing Mount Pleasant",
-    "url": "https://www.last.fm/music/Racing+Mount+Pleasant/_/Emily",
+    "url": "https://www.last.fm/music/Racing+Mount+Pleasant/_/Tenspeed+(Shallows)",
     "img": "https://i.scdn.co/image/ab67616d0000b27352501e69190f5d7b6c9f7ab3",
     "playcount": "4"
   }
