@@ -17,14 +17,6 @@
   },
   {
     "rank": 3,
-    "title": "Racing Mount Pleasant",
-    "artist": "Racing Mount Pleasant",
-    "url": "https://www.last.fm/music/Racing+Mount+Pleasant/_/Racing+Mount+Pleasant",
-    "img": "https://i.scdn.co/image/ab67616d0000b27352501e69190f5d7b6c9f7ab3",
-    "playcount": "5"
-  },
-  {
-    "rank": 4,
     "title": "Amsterdam",
     "artist": "Gregory Alan Isakov",
     "url": "https://www.last.fm/music/Gregory+Alan+Isakov/_/Amsterdam",
@@ -32,7 +24,7 @@
     "playcount": "4"
   },
   {
-    "rank": 5,
+    "rank": 4,
     "title": "Light Year",
     "artist": "Gregory Alan Isakov",
     "url": "https://www.last.fm/music/Gregory+Alan+Isakov/_/Light+Year",
@@ -40,7 +32,7 @@
     "playcount": "4"
   },
   {
-    "rank": 6,
+    "rank": 5,
     "title": "Stolen Love",
     "artist": "Josiah and the Bonnevilles",
     "url": "https://www.last.fm/music/Josiah+and+the+Bonnevilles/_/Stolen+Love",
@@ -48,7 +40,7 @@
     "playcount": "4"
   },
   {
-    "rank": 7,
+    "rank": 6,
     "title": "Forget It",
     "artist": "Kerosene Heights",
     "url": "https://www.last.fm/music/Kerosene+Heights/_/Forget+It",
@@ -56,7 +48,7 @@
     "playcount": "4"
   },
   {
-    "rank": 8,
+    "rank": 7,
     "title": "The Man",
     "artist": "Taylor Swift",
     "url": "https://www.last.fm/music/Taylor+Swift/_/The+Man",
@@ -64,7 +56,7 @@
     "playcount": "4"
   },
   {
-    "rank": 9,
+    "rank": 8,
     "title": "in a dream",
     "artist": "Trace Mountains",
     "url": "https://www.last.fm/music/Trace+Mountains/_/in+a+dream",
@@ -72,11 +64,19 @@
     "playcount": "4"
   },
   {
-    "rank": 10,
+    "rank": 9,
     "title": "the line",
     "artist": "Trace Mountains",
     "url": "https://www.last.fm/music/Trace+Mountains/_/the+line",
     "img": "https://i.scdn.co/image/ab67616d0000b273150162bdc713fe12acaaf263",
     "playcount": "4"
+  },
+  {
+    "rank": 10,
+    "title": "June Guitar",
+    "artist": "Alex G",
+    "url": "https://www.last.fm/music/Alex+G/_/June+Guitar",
+    "img": "https://i.scdn.co/image/ab67616d0000b27362c14a7a1f0606f257409f2f",
+    "playcount": "3"
   }
 ]
