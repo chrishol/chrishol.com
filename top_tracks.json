@@ -5,7 +5,7 @@
     "artist": "Geese",
     "url": "https://www.last.fm/music/Geese/_/Taxes",
     "img": "https://i.scdn.co/image/ab67616d0000b27345e82ae0372a50834825c018",
-    "playcount": "11"
+    "playcount": "10"
   },
   {
     "rank": 2,
@@ -65,18 +65,18 @@
   },
   {
     "rank": 9,
-    "title": "Husbands",
-    "artist": "Geese",
-    "url": "https://www.last.fm/music/Geese/_/Husbands",
-    "img": "https://i.scdn.co/image/ab67616d0000b27345e82ae0372a50834825c018",
-    "playcount": "6"
-  },
-  {
-    "rank": 10,
     "title": "Trinidad",
     "artist": "Geese",
     "url": "https://www.last.fm/music/Geese/_/Trinidad",
     "img": "https://i.scdn.co/image/ab67616d0000b27345e82ae0372a50834825c018",
     "playcount": "6"
+  },
+  {
+    "rank": 10,
+    "title": "Husbands",
+    "artist": "Geese",
+    "url": "https://www.last.fm/music/Geese/_/Husbands",
+    "img": "https://i.scdn.co/image/ab67616d0000b27345e82ae0372a50834825c018",
+    "playcount": "5"
   }
 ]
