@@ -5,7 +5,7 @@
     "artist": "Geese",
     "url": "https://www.last.fm/music/Geese/_/Taxes",
     "img": "https://i.scdn.co/image/ab67616d0000b27345e82ae0372a50834825c018",
-    "playcount": "10"
+    "playcount": "9"
   },
   {
     "rank": 2,
@@ -25,14 +25,6 @@
   },
   {
     "rank": 4,
-    "title": "Cobra",
-    "artist": "Geese",
-    "url": "https://www.last.fm/music/Geese/_/Cobra",
-    "img": "https://i.scdn.co/image/ab67616d0000b27345e82ae0372a50834825c018",
-    "playcount": "7"
-  },
-  {
-    "rank": 5,
     "title": "Northern Attitude",
     "artist": "Noah Kahan",
     "url": "https://www.last.fm/music/Noah+Kahan/_/Northern+Attitude",
@@ -40,7 +32,7 @@
     "playcount": "7"
   },
   {
-    "rank": 6,
+    "rank": 5,
     "title": "Send Me On My Way",
     "artist": "Rusted Root",
     "url": "https://www.last.fm/music/Rusted+Root/_/Send+Me+On+My+Way",
@@ -48,23 +40,15 @@
     "playcount": "7"
   },
   {
+    "rank": 6,
+    "title": "Cobra",
+    "artist": "Geese",
+    "url": "https://www.last.fm/music/Geese/_/Cobra",
+    "img": "https://i.scdn.co/image/ab67616d0000b27345e82ae0372a50834825c018",
+    "playcount": "6"
+  },
+  {
     "rank": 7,
-    "title": "Au Pays du Cocaine",
-    "artist": "Geese",
-    "url": "https://www.last.fm/music/Geese/_/Au+Pays+du+Cocaine",
-    "img": "https://i.scdn.co/image/ab67616d0000b27345e82ae0372a50834825c018",
-    "playcount": "6"
-  },
-  {
-    "rank": 8,
-    "title": "Trinidad",
-    "artist": "Geese",
-    "url": "https://www.last.fm/music/Geese/_/Trinidad",
-    "img": "https://i.scdn.co/image/ab67616d0000b27345e82ae0372a50834825c018",
-    "playcount": "6"
-  },
-  {
-    "rank": 9,
     "title": "Lucy",
     "artist": "Mt. Joy",
     "url": "https://www.last.fm/music/Mt.+Joy/_/Lucy",
@@ -72,10 +56,26 @@
     "playcount": "6"
   },
   {
-    "rank": 10,
+    "rank": 8,
+    "title": "Au Pays du Cocaine",
+    "artist": "Geese",
+    "url": "https://www.last.fm/music/Geese/_/Au+Pays+du+Cocaine",
+    "img": "https://i.scdn.co/image/ab67616d0000b27345e82ae0372a50834825c018",
+    "playcount": "5"
+  },
+  {
+    "rank": 9,
     "title": "Husbands",
     "artist": "Geese",
     "url": "https://www.last.fm/music/Geese/_/Husbands",
+    "img": "https://i.scdn.co/image/ab67616d0000b27345e82ae0372a50834825c018",
+    "playcount": "5"
+  },
+  {
+    "rank": 10,
+    "title": "Trinidad",
+    "artist": "Geese",
+    "url": "https://www.last.fm/music/Geese/_/Trinidad",
     "img": "https://i.scdn.co/image/ab67616d0000b27345e82ae0372a50834825c018",
     "playcount": "5"
   }
