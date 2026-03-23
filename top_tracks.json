@@ -9,14 +9,6 @@
   },
   {
     "rank": 2,
-    "title": "Bathroom Light",
-    "artist": "Mt. Joy",
-    "url": "https://www.last.fm/music/Mt.+Joy/_/Bathroom+Light",
-    "img": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/94/40/3e/94403e5c-75c7-a45d-74a2-034a8dedf3cf/22UMGIM33741.rgb.jpg/600x600bb.jpg",
-    "playcount": "4"
-  },
-  {
-    "rank": 3,
     "title": "Ballad of The Texas Gentlemen",
     "artist": "Ryan Bingham",
     "url": "https://www.last.fm/music/Ryan+Bingham/_/Ballad+of+The+Texas+Gentlemen",
@@ -24,7 +16,7 @@
     "playcount": "4"
   },
   {
-    "rank": 4,
+    "rank": 3,
     "title": "Do It Right",
     "artist": "Donovan Woods",
     "url": "https://www.last.fm/music/Donovan+Woods/_/Do+It+Right",
@@ -32,7 +24,7 @@
     "playcount": "3"
   },
   {
-    "rank": 5,
+    "rank": 4,
     "title": "Losing Everything",
     "artist": "Donovan Woods",
     "url": "https://www.last.fm/music/Donovan+Woods/_/Losing+Everything",
@@ -40,7 +32,7 @@
     "playcount": "3"
   },
   {
-    "rank": 6,
+    "rank": 5,
     "title": "Everyone Around Me Dancing",
     "artist": "Gia Margaret",
     "url": "https://www.last.fm/music/Gia+Margaret/_/Everyone+Around+Me+Dancing",
@@ -48,15 +40,15 @@
     "playcount": "3"
   },
   {
-    "rank": 7,
-    "title": "Silver Lining",
+    "rank": 6,
+    "title": "Bathroom Light",
     "artist": "Mt. Joy",
-    "url": "https://www.last.fm/music/Mt.+Joy/_/Silver+Lining",
-    "img": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/bf/c7/82/bfc782d3-349f-8dcb-ed50-4f65ba5b2e59/18562.jpg/600x600bb.jpg",
+    "url": "https://www.last.fm/music/Mt.+Joy/_/Bathroom+Light",
+    "img": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/94/40/3e/94403e5c-75c7-a45d-74a2-034a8dedf3cf/22UMGIM33741.rgb.jpg/600x600bb.jpg",
     "playcount": "3"
   },
   {
-    "rank": 8,
+    "rank": 7,
     "title": "Abbreviated",
     "artist": "OVVEN",
     "url": "https://www.last.fm/music/OVVEN/_/Abbreviated",
@@ -64,7 +56,7 @@
     "playcount": "3"
   },
   {
-    "rank": 9,
+    "rank": 8,
     "title": "Shining Ear to Ear",
     "artist": "OVVEN",
     "url": "https://www.last.fm/music/OVVEN/_/Shining+Ear+to+Ear",
@@ -72,11 +64,19 @@
     "playcount": "3"
   },
   {
-    "rank": 10,
+    "rank": 9,
     "title": "The World, So Madly",
     "artist": "Ratboys",
     "url": "https://www.last.fm/music/Ratboys/_/The+World,+So+Madly",
     "img": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/f5/5f/1a/f55f1a6e-fa52-d1c2-206e-93ab0d318268/3328.jpg/600x600bb.jpg",
+    "playcount": "3"
+  },
+  {
+    "rank": 10,
+    "title": "Somewhere In Chicago",
+    "artist": "Strand of Oaks",
+    "url": "https://www.last.fm/music/Strand+of+Oaks/_/Somewhere+In+Chicago",
+    "img": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/e5/d0/0c/e5d00cad-7ea4-7195-2d92-84e63a96506d/195497784103.jpg/600x600bb.jpg",
     "playcount": "3"
   }
 ]
