@@ -9,14 +9,6 @@
   },
   {
     "rank": 2,
-    "title": "Ballad of The Texas Gentlemen",
-    "artist": "Ryan Bingham",
-    "url": "https://www.last.fm/music/Ryan+Bingham/_/Ballad+of+The+Texas+Gentlemen",
-    "img": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/df/10/e8/df10e8f0-277a-737d-f9e0-c25825e77173/199806184530.jpg/600x600bb.jpg",
-    "playcount": "4"
-  },
-  {
-    "rank": 3,
     "title": "Southern Sky",
     "artist": "Alex G",
     "url": "https://www.last.fm/music/Alex+G/_/Southern+Sky",
@@ -24,7 +16,7 @@
     "playcount": "3"
   },
   {
-    "rank": 4,
+    "rank": 3,
     "title": "Opening Night",
     "artist": "Arctic Monkeys and War Child Records",
     "url": "https://www.last.fm/music/Arctic+Monkeys+and+War+Child+Records/_/Opening+Night",
@@ -32,15 +24,7 @@
     "playcount": "3"
   },
   {
-    "rank": 5,
-    "title": "These Things Happen",
-    "artist": "Donovan Woods",
-    "url": "https://www.last.fm/music/Donovan+Woods/_/These+Things+Happen",
-    "img": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ff/4c/d7/ff4cd7bf-b97e-ce87-3e5a-e868ed3c5a9d/5026854283883.jpg/600x600bb.jpg",
-    "playcount": "3"
-  },
-  {
-    "rank": 6,
+    "rank": 4,
     "title": "Delirium",
     "artist": "Gorillaz",
     "url": "https://www.last.fm/music/Gorillaz/_/Delirium",
@@ -48,7 +32,7 @@
     "playcount": "3"
   },
   {
-    "rank": 7,
+    "rank": 5,
     "title": "Orange County",
     "artist": "Gorillaz",
     "url": "https://www.last.fm/music/Gorillaz/_/Orange+County",
@@ -56,7 +40,7 @@
     "playcount": "3"
   },
   {
-    "rank": 8,
+    "rank": 6,
     "title": "The Empty Dream Machine",
     "artist": "Gorillaz",
     "url": "https://www.last.fm/music/Gorillaz/_/The+Empty+Dream+Machine",
@@ -64,7 +48,7 @@
     "playcount": "3"
   },
   {
-    "rank": 9,
+    "rank": 7,
     "title": "The God of Lying",
     "artist": "Gorillaz",
     "url": "https://www.last.fm/music/Gorillaz/_/The+God+of+Lying",
@@ -72,11 +56,27 @@
     "playcount": "3"
   },
   {
-    "rank": 10,
+    "rank": 8,
     "title": "The Happy Dictator",
     "artist": "Gorillaz",
     "url": "https://www.last.fm/music/Gorillaz/_/The+Happy+Dictator",
     "img": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/86/b5/3f/86b53fc7-cc73-c735-17fb-549fc459edca/199538459005.jpg/600x600bb.jpg",
+    "playcount": "3"
+  },
+  {
+    "rank": 9,
+    "title": "The Hardest Thing",
+    "artist": "Gorillaz",
+    "url": "https://www.last.fm/music/Gorillaz/_/The+Hardest+Thing",
+    "img": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/86/b5/3f/86b53fc7-cc73-c735-17fb-549fc459edca/199538459005.jpg/600x600bb.jpg",
+    "playcount": "3"
+  },
+  {
+    "rank": 10,
+    "title": "The Manifesto",
+    "artist": "Gorillaz",
+    "url": "https://www.last.fm/music/Gorillaz/_/The+Manifesto",
+    "img": "https://cdn-images.dzcdn.net/images/cover/fb86decc775f4140fdc5c9433ac1170d/1000x1000-000000-80-0-0.jpg",
     "playcount": "3"
   }
 ]
