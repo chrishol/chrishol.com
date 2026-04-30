@@ -41,6 +41,14 @@
   },
   {
     "rank": 6,
+    "title": "Six O'Clock News",
+    "artist": "Brennan Wedl and Waxahatchee",
+    "url": "https://www.last.fm/music/Brennan+Wedl+and+Waxahatchee/_/Six+O%27Clock+News",
+    "img": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/4f/de/6b/4fde6b11-a1c4-4c8f-3381-e8b9c3924696/0045778818402.png/600x600bb.jpg",
+    "playcount": "3"
+  },
+  {
+    "rank": 7,
     "title": "Never Meant",
     "artist": "Iron & Wine",
     "url": "https://www.last.fm/music/Iron+&+Wine/_/Never+Meant",
@@ -48,7 +56,7 @@
     "playcount": "3"
   },
   {
-    "rank": 7,
+    "rank": 8,
     "title": "DEAD FLOWERS",
     "artist": "The Twilight Sad",
     "url": "https://www.last.fm/music/The+Twilight+Sad/_/DEAD+FLOWERS",
@@ -56,20 +64,12 @@
     "playcount": "3"
   },
   {
-    "rank": 8,
+    "rank": 9,
     "title": "GET AWAY FROM IT ALL",
     "artist": "The Twilight Sad",
     "url": "https://www.last.fm/music/The+Twilight+Sad/_/GET+AWAY+FROM+IT+ALL",
     "img": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/31/9f/23/319f23c9-3f32-e5ec-e81d-a372d95bea74/121208.jpg/600x600bb.jpg",
     "playcount": "3"
-  },
-  {
-    "rank": 9,
-    "title": "Six O'Clock News",
-    "artist": "Brennan Wedl and Waxahatchee",
-    "url": "https://www.last.fm/music/Brennan+Wedl+and+Waxahatchee/_/Six+O%27Clock+News",
-    "img": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/4f/de/6b/4fde6b11-a1c4-4c8f-3381-e8b9c3924696/0045778818402.png/600x600bb.jpg",
-    "playcount": "2"
   },
   {
     "rank": 10,
