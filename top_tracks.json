@@ -5,7 +5,7 @@
     "artist": "Okkervil River",
     "url": "https://www.last.fm/music/Okkervil+River/_/Famous+Tracheotomies",
     "img": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/ca/13/80/ca1380c7-1625-4525-869b-2e1238fab87e/OkkervilHiRes.jpg/600x600bb.jpg",
-    "playcount": "8"
+    "playcount": "9"
   },
   {
     "rank": 2,
@@ -13,7 +13,7 @@
     "artist": "Royel Otis",
     "url": "https://www.last.fm/music/Royel+Otis/_/say+something",
     "img": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1b/bf/a2/1bbfa200-28fb-828e-479a-273f36d2eac4/25UMGIM58665.rgb.jpg/600x600bb.jpg",
-    "playcount": "5"
+    "playcount": "6"
   },
   {
     "rank": 3,
@@ -21,7 +21,7 @@
     "artist": "Gracie Abrams",
     "url": "https://www.last.fm/music/Gracie+Abrams/_/Hit+the+Wall",
     "img": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/4f/13/47/4f1347cf-9564-e8b6-523a-386202f4d265/26UMGIM54147.rgb.jpg/600x600bb.jpg",
-    "playcount": "4"
+    "playcount": "5"
   },
   {
     "rank": 4,
@@ -29,10 +29,34 @@
     "artist": "Okkervil River",
     "url": "https://www.last.fm/music/Okkervil+River/_/A+Stone",
     "img": "https://is1-ssl.mzstatic.com/image/thumb/Music5/v4/bd/ee/39/bdee39e9-a345-d4ff-41e3-e594f839c0f8/656605228068.jpg/600x600bb.jpg",
-    "playcount": "4"
+    "playcount": "5"
   },
   {
     "rank": 5,
+    "title": "Going Gone",
+    "artist": "Josiah and the Bonnevilles",
+    "url": "https://www.last.fm/music/Josiah+and+the+Bonnevilles/_/Going+Gone",
+    "img": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b6/eb/8d/b6eb8d6b-fa33-a887-251d-dee26c37cb34/25CRGIM53100.rgb.jpg/600x600bb.jpg",
+    "playcount": "3"
+  },
+  {
+    "rank": 6,
+    "title": "Freaking Out",
+    "artist": "Michigander",
+    "url": "https://www.last.fm/music/Michigander/_/Freaking+Out",
+    "img": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/18/ff/42/18ff42e6-46dd-8ecc-7a45-3c02eafadc0f/820233024891.jpg/600x600bb.jpg",
+    "playcount": "3"
+  },
+  {
+    "rank": 7,
+    "title": "the cure",
+    "artist": "Olivia Rodrigo",
+    "url": "https://www.last.fm/music/Olivia+Rodrigo/_/the+cure",
+    "img": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ea/cc/ad/eaccad77-3cb8-ddc2-a2e1-224c409aa26b/26UMGIM64019.rgb.jpg/600x600bb.jpg",
+    "playcount": "3"
+  },
+  {
+    "rank": 8,
     "title": "Dust Bowl III",
     "artist": "Other Lives",
     "url": "https://www.last.fm/music/Other+Lives/_/Dust+Bowl+III",
@@ -40,7 +64,7 @@
     "playcount": "3"
   },
   {
-    "rank": 6,
+    "rank": 9,
     "title": "For 12",
     "artist": "Other Lives",
     "url": "https://www.last.fm/music/Other+Lives/_/For+12",
@@ -48,35 +72,11 @@
     "playcount": "3"
   },
   {
-    "rank": 7,
+    "rank": 10,
     "title": "Old Statues",
     "artist": "Other Lives",
     "url": "https://www.last.fm/music/Other+Lives/_/Old+Statues",
     "img": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/3a/bc/43/3abc43b2-824f-914d-b8eb-856c9b089031/129.jpg/600x600bb.jpg",
-    "playcount": "3"
-  },
-  {
-    "rank": 8,
-    "title": "Tamer Animals",
-    "artist": "Other Lives",
-    "url": "https://www.last.fm/music/Other+Lives/_/Tamer+Animals",
-    "img": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/3a/bc/43/3abc43b2-824f-914d-b8eb-856c9b089031/129.jpg/600x600bb.jpg",
-    "playcount": "3"
-  },
-  {
-    "rank": 9,
-    "title": "Weather",
-    "artist": "Other Lives",
-    "url": "https://www.last.fm/music/Other+Lives/_/Weather",
-    "img": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/3a/bc/43/3abc43b2-824f-914d-b8eb-856c9b089031/129.jpg/600x600bb.jpg",
-    "playcount": "3"
-  },
-  {
-    "rank": 10,
-    "title": "Woodwind",
-    "artist": "Other Lives",
-    "url": "https://www.last.fm/music/Other+Lives/_/Woodwind",
-    "img": null,
     "playcount": "3"
   }
 ]
