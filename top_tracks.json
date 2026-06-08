@@ -33,14 +33,6 @@
   },
   {
     "rank": 5,
-    "title": "Going Gone",
-    "artist": "Josiah and the Bonnevilles",
-    "url": "https://www.last.fm/music/Josiah+and+the+Bonnevilles/_/Going+Gone",
-    "img": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b6/eb/8d/b6eb8d6b-fa33-a887-251d-dee26c37cb34/25CRGIM53100.rgb.jpg/600x600bb.jpg",
-    "playcount": "3"
-  },
-  {
-    "rank": 6,
     "title": "Freaking Out",
     "artist": "Michigander",
     "url": "https://www.last.fm/music/Michigander/_/Freaking+Out",
@@ -48,7 +40,7 @@
     "playcount": "3"
   },
   {
-    "rank": 7,
+    "rank": 6,
     "title": "the cure",
     "artist": "Olivia Rodrigo",
     "url": "https://www.last.fm/music/Olivia+Rodrigo/_/the+cure",
@@ -56,7 +48,7 @@
     "playcount": "3"
   },
   {
-    "rank": 8,
+    "rank": 7,
     "title": "Dust Bowl III",
     "artist": "Other Lives",
     "url": "https://www.last.fm/music/Other+Lives/_/Dust+Bowl+III",
@@ -64,7 +56,7 @@
     "playcount": "3"
   },
   {
-    "rank": 9,
+    "rank": 8,
     "title": "For 12",
     "artist": "Other Lives",
     "url": "https://www.last.fm/music/Other+Lives/_/For+12",
@@ -72,10 +64,18 @@
     "playcount": "3"
   },
   {
-    "rank": 10,
+    "rank": 9,
     "title": "Old Statues",
     "artist": "Other Lives",
     "url": "https://www.last.fm/music/Other+Lives/_/Old+Statues",
+    "img": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/3a/bc/43/3abc43b2-824f-914d-b8eb-856c9b089031/129.jpg/600x600bb.jpg",
+    "playcount": "3"
+  },
+  {
+    "rank": 10,
+    "title": "Tamer Animals",
+    "artist": "Other Lives",
+    "url": "https://www.last.fm/music/Other+Lives/_/Tamer+Animals",
     "img": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/3a/bc/43/3abc43b2-824f-914d-b8eb-856c9b089031/129.jpg/600x600bb.jpg",
     "playcount": "3"
   }
