@@ -41,14 +41,6 @@
   },
   {
     "rank": 6,
-    "title": "the cure",
-    "artist": "Olivia Rodrigo",
-    "url": "https://www.last.fm/music/Olivia+Rodrigo/_/the+cure",
-    "img": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ea/cc/ad/eaccad77-3cb8-ddc2-a2e1-224c409aa26b/26UMGIM64019.rgb.jpg/600x600bb.jpg",
-    "playcount": "3"
-  },
-  {
-    "rank": 7,
     "title": "Edge of Seventeen",
     "artist": "Stevie Nicks",
     "url": "https://www.last.fm/music/Stevie+Nicks/_/Edge+of+Seventeen",
@@ -56,7 +48,7 @@
     "playcount": "3"
   },
   {
-    "rank": 8,
+    "rank": 7,
     "title": "Streets of Your Town",
     "artist": "The Go-Betweens",
     "url": "https://www.last.fm/music/The+Go-Betweens/_/Streets+of+Your+Town",
@@ -64,7 +56,7 @@
     "playcount": "3"
   },
   {
-    "rank": 9,
+    "rank": 8,
     "title": "Round Of Applause At The End Of The World",
     "artist": "Wild Pink",
     "url": "https://www.last.fm/music/Wild+Pink/_/Round+Of+Applause+At+The+End+Of+The+World",
@@ -72,11 +64,19 @@
     "playcount": "3"
   },
   {
-    "rank": 10,
+    "rank": 9,
     "title": "Smalltown Boy",
     "artist": "Bronski Beat",
     "url": "https://www.last.fm/music/Bronski+Beat/_/Smalltown+Boy",
     "img": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/76/df/ee/76dfee41-aca3-76c6-e695-c46ec360e090/639842819527.jpg/600x600bb.jpg",
+    "playcount": "2"
+  },
+  {
+    "rank": 10,
+    "title": "Punching the Flowers",
+    "artist": "Death Cab for Cutie",
+    "url": "https://www.last.fm/music/Death+Cab+for+Cutie/_/Punching+the+Flowers",
+    "img": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/c9/89/87/c98987bd-3093-5826-7b2c-960df8c713ba/0045778817061.png/600x600bb.jpg",
     "playcount": "2"
   }
 ]
