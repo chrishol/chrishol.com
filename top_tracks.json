@@ -49,6 +49,14 @@
   },
   {
     "rank": 7,
+    "title": "Model Train Town",
+    "artist": "Petey USA",
+    "url": "https://www.last.fm/music/Petey+USA/_/Model+Train+Town",
+    "img": "https://cdn-images.dzcdn.net/images/cover/cbbd7772c0eaa990681854ce928a1f2c/1000x1000-000000-80-0-0.jpg",
+    "playcount": "3"
+  },
+  {
+    "rank": 8,
     "title": "Edge of Seventeen",
     "artist": "Stevie Nicks",
     "url": "https://www.last.fm/music/Stevie+Nicks/_/Edge+of+Seventeen",
@@ -56,7 +64,7 @@
     "playcount": "3"
   },
   {
-    "rank": 8,
+    "rank": 9,
     "title": "Streets of Your Town",
     "artist": "The Go-Betweens",
     "url": "https://www.last.fm/music/The+Go-Betweens/_/Streets+of+Your+Town",
@@ -64,19 +72,11 @@
     "playcount": "3"
   },
   {
-    "rank": 9,
+    "rank": 10,
     "title": "Round Of Applause At The End Of The World",
     "artist": "Wild Pink",
     "url": "https://www.last.fm/music/Wild+Pink/_/Round+Of+Applause+At+The+End+Of+The+World",
     "img": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/64/a4/53/64a45392-5e27-3233-d535-792de8d61eda/126675.jpg/600x600bb.jpg",
     "playcount": "3"
-  },
-  {
-    "rank": 10,
-    "title": "Smalltown Boy",
-    "artist": "Bronski Beat",
-    "url": "https://www.last.fm/music/Bronski+Beat/_/Smalltown+Boy",
-    "img": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/76/df/ee/76dfee41-aca3-76c6-e695-c46ec360e090/639842819527.jpg/600x600bb.jpg",
-    "playcount": "2"
   }
 ]
