@@ -1,14 +1,6 @@
 [
   {
     "rank": 1,
-    "title": "Oh My Days",
-    "artist": "Orville Peck",
-    "url": "https://www.last.fm/music/Orville+Peck/_/Oh+My+Days",
-    "img": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/9e/5e/3d/9e5e3d11-710c-c5fb-6b58-7c17ba7b829a/093624827573.jpg/600x600bb.jpg",
-    "playcount": "3"
-  },
-  {
-    "rank": 2,
     "title": "Box Store",
     "artist": "Wild Pink",
     "url": "https://www.last.fm/music/Wild+Pink/_/Box+Store",
@@ -16,67 +8,75 @@
     "playcount": "3"
   },
   {
+    "rank": 2,
+    "title": "begged",
+    "artist": "Olivia Rodrigo",
+    "url": "https://www.last.fm/music/Olivia+Rodrigo/_/begged",
+    "img": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1d/1b/f9/1d1bf9b1-44c6-9a6c-6ffb-c158488c06ce/26UMGIM39303.rgb.jpg/600x600bb.jpg",
+    "playcount": "2"
+  },
+  {
     "rank": 3,
-    "title": "Day One",
-    "artist": "Bon Iver",
-    "url": "https://www.last.fm/music/Bon+Iver/_/Day+One",
-    "img": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/62/08/8f/62088f93-f886-8770-f1dd-de46f1368e0f/5056167128373_1.jpg/600x600bb.jpg",
+    "title": "the cure",
+    "artist": "Olivia Rodrigo",
+    "url": "https://www.last.fm/music/Olivia+Rodrigo/_/the+cure",
+    "img": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ea/cc/ad/eaccad77-3cb8-ddc2-a2e1-224c409aa26b/26UMGIM64019.rgb.jpg/600x600bb.jpg",
     "playcount": "2"
   },
   {
     "rank": 4,
-    "title": "Everything Is Peaceful Love",
-    "artist": "Bon Iver",
-    "url": "https://www.last.fm/music/Bon+Iver/_/Everything+Is+Peaceful+Love",
-    "img": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/44/95/21/449521a9-3e07-9a15-02be-d1412884e240/51719.jpg/600x600bb.jpg",
+    "title": "what’s wrong with me",
+    "artist": "olivia rodrigo and robert smith",
+    "url": "https://www.last.fm/music/olivia+rodrigo+and+robert+smith/_/what%E2%80%99s+wrong+with+me",
+    "img": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1d/1b/f9/1d1bf9b1-44c6-9a6c-6ffb-c158488c06ce/26UMGIM39303.rgb.jpg/600x600bb.jpg",
     "playcount": "2"
   },
   {
     "rank": 5,
-    "title": "From",
-    "artist": "Bon Iver",
-    "url": "https://www.last.fm/music/Bon+Iver/_/From",
-    "img": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/44/95/21/449521a9-3e07-9a15-02be-d1412884e240/51719.jpg/600x600bb.jpg",
+    "title": "Oh My Days",
+    "artist": "Orville Peck",
+    "url": "https://www.last.fm/music/Orville+Peck/_/Oh+My+Days",
+    "img": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/9e/5e/3d/9e5e3d11-710c-c5fb-6b58-7c17ba7b829a/093624827573.jpg/600x600bb.jpg",
     "playcount": "2"
   },
   {
     "rank": 6,
-    "title": "Free Association",
-    "artist": "Friendship",
-    "url": "https://www.last.fm/music/Friendship/_/Free+Association",
-    "img": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/72/b3/e1/72b3e167-c728-1ce8-6aa6-610df98b5e60/57472.jpg/600x600bb.jpg",
+    "title": "Anything He Was",
+    "artist": "Tiny Habits",
+    "url": "https://www.last.fm/music/Tiny+Habits/_/Anything+He+Was",
+    "img": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/9c/04/dc/9c04dc0a-f2e7-48f0-35a7-3cc568c2f143/823375232070_Cover.jpg/600x600bb.jpg",
     "playcount": "2"
   },
   {
     "rank": 7,
-    "title": "The Parting Glass",
-    "artist": "Gregory Alan Isakov",
-    "url": "https://www.last.fm/music/Gregory+Alan+Isakov/_/The+Parting+Glass",
-    "img": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/6a/f8/ed/6af8eddd-5a5f-25e6-a9f2-bbe0b9ed0323/780163673623.jpg/600x600bb.jpg",
-    "playcount": "2"
+    "title": "Dangerous Substances",
+    "artist": "A Mouthful of Increasingly",
+    "url": "https://www.last.fm/music/A+Mouthful+of+Increasingly/_/Dangerous+Substances",
+    "img": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1d/51/5b/1d515b51-91c5-ea42-9756-2d9bc00366f5/64060.jpg/600x600bb.jpg",
+    "playcount": "1"
   },
   {
     "rank": 8,
-    "title": "Tie you down",
-    "artist": "HAIM, Bon Iver",
-    "url": "https://www.last.fm/music/HAIM,+Bon+Iver/_/Tie+you+down",
-    "img": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/88/07/76/88077600-e571-8ca5-6b36-13046adb5775/196873688220.jpg/600x600bb.jpg",
-    "playcount": "2"
+    "title": "Hero",
+    "artist": "Anti",
+    "url": "https://www.last.fm/music/Anti/_/Hero",
+    "img": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/3d/01/f2/3d01f2e5-5a08-835f-3d30-d031720b2b80/22UM1IM07364.rgb.jpg/600x600bb.jpg",
+    "playcount": "1"
   },
   {
     "rank": 9,
-    "title": "Things I Left Behind",
-    "artist": "Joni",
-    "url": "https://www.last.fm/music/Joni/_/Things+I+Left+Behind",
-    "img": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/0b/4d/f1/0b4df126-ebec-2877-699a-896dda289112/51881.jpg/600x600bb.jpg",
-    "playcount": "2"
+    "title": "Get Go",
+    "artist": "Arlo Parks",
+    "url": "https://www.last.fm/music/Arlo+Parks/_/Get+Go",
+    "img": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/86/10/2a/86102a67-2d84-24f7-dd60-4c7a6846ed05/5400863205140_cover.jpg/600x600bb.jpg",
+    "playcount": "1"
   },
   {
     "rank": 10,
-    "title": "Lonely (Virginia Strings Version)",
-    "artist": "Kate Bollinger",
-    "url": "https://www.last.fm/music/Kate+Bollinger/_/Lonely+(Virginia+Strings+Version)",
-    "img": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/92/6a/2b/926a2b20-1d2d-aa79-d6f7-5fdb1f58925f/58321.jpg/600x600bb.jpg",
-    "playcount": "2"
+    "title": "Patience",
+    "artist": "Bad Suns",
+    "url": "https://www.last.fm/music/Bad+Suns/_/Patience",
+    "img": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a2/cc/2e/a2cc2e8e-4efd-853f-89da-77fcce7976d7/4050538223354.jpg/600x600bb.jpg",
+    "playcount": "1"
   }
 ]
