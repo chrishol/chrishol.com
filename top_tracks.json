@@ -9,30 +9,6 @@
   },
   {
     "rank": 2,
-    "title": "begged",
-    "artist": "Olivia Rodrigo",
-    "url": "https://www.last.fm/music/Olivia+Rodrigo/_/begged",
-    "img": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1d/1b/f9/1d1bf9b1-44c6-9a6c-6ffb-c158488c06ce/26UMGIM39303.rgb.jpg/600x600bb.jpg",
-    "playcount": "2"
-  },
-  {
-    "rank": 3,
-    "title": "the cure",
-    "artist": "Olivia Rodrigo",
-    "url": "https://www.last.fm/music/Olivia+Rodrigo/_/the+cure",
-    "img": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ea/cc/ad/eaccad77-3cb8-ddc2-a2e1-224c409aa26b/26UMGIM64019.rgb.jpg/600x600bb.jpg",
-    "playcount": "2"
-  },
-  {
-    "rank": 4,
-    "title": "what’s wrong with me",
-    "artist": "olivia rodrigo and robert smith",
-    "url": "https://www.last.fm/music/olivia+rodrigo+and+robert+smith/_/what%E2%80%99s+wrong+with+me",
-    "img": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1d/1b/f9/1d1bf9b1-44c6-9a6c-6ffb-c158488c06ce/26UMGIM39303.rgb.jpg/600x600bb.jpg",
-    "playcount": "2"
-  },
-  {
-    "rank": 5,
     "title": "Oh My Days",
     "artist": "Orville Peck",
     "url": "https://www.last.fm/music/Orville+Peck/_/Oh+My+Days",
@@ -40,7 +16,7 @@
     "playcount": "2"
   },
   {
-    "rank": 6,
+    "rank": 3,
     "title": "Anything He Was",
     "artist": "Tiny Habits",
     "url": "https://www.last.fm/music/Tiny+Habits/_/Anything+He+Was",
@@ -48,7 +24,7 @@
     "playcount": "2"
   },
   {
-    "rank": 7,
+    "rank": 4,
     "title": "Dangerous Substances",
     "artist": "A Mouthful of Increasingly",
     "url": "https://www.last.fm/music/A+Mouthful+of+Increasingly/_/Dangerous+Substances",
@@ -56,27 +32,51 @@
     "playcount": "1"
   },
   {
+    "rank": 5,
+    "title": "July",
+    "artist": "Beach Bunny",
+    "url": "https://www.last.fm/music/Beach+Bunny/_/July",
+    "img": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b5/1d/95/b51d955f-4ae3-f91c-4c27-bc238e1f578f/840096230420.png/600x600bb.jpg",
+    "playcount": "1"
+  },
+  {
+    "rank": 6,
+    "title": "Day One",
+    "artist": "Bon Iver",
+    "url": "https://www.last.fm/music/Bon+Iver/_/Day+One",
+    "img": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/62/08/8f/62088f93-f886-8770-f1dd-de46f1368e0f/5056167128373_1.jpg/600x600bb.jpg",
+    "playcount": "1"
+  },
+  {
+    "rank": 7,
+    "title": "Everything Is Peaceful Love",
+    "artist": "Bon Iver",
+    "url": "https://www.last.fm/music/Bon+Iver/_/Everything+Is+Peaceful+Love",
+    "img": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/44/95/21/449521a9-3e07-9a15-02be-d1412884e240/51719.jpg/600x600bb.jpg",
+    "playcount": "1"
+  },
+  {
     "rank": 8,
-    "title": "Hero",
-    "artist": "Anti",
-    "url": "https://www.last.fm/music/Anti/_/Hero",
-    "img": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/3d/01/f2/3d01f2e5-5a08-835f-3d30-d031720b2b80/22UM1IM07364.rgb.jpg/600x600bb.jpg",
+    "title": "From",
+    "artist": "Bon Iver",
+    "url": "https://www.last.fm/music/Bon+Iver/_/From",
+    "img": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/44/95/21/449521a9-3e07-9a15-02be-d1412884e240/51719.jpg/600x600bb.jpg",
     "playcount": "1"
   },
   {
     "rank": 9,
-    "title": "Get Go",
-    "artist": "Arlo Parks",
-    "url": "https://www.last.fm/music/Arlo+Parks/_/Get+Go",
-    "img": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/86/10/2a/86102a67-2d84-24f7-dd60-4c7a6846ed05/5400863205140_cover.jpg/600x600bb.jpg",
+    "title": "Bad Caffeine",
+    "artist": "Charli Adams",
+    "url": "https://www.last.fm/music/Charli+Adams/_/Bad+Caffeine",
+    "img": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/31/1d/85/311d85f7-188d-c429-2fb0-c1db25ee4497/0617465012273.jpg/600x600bb.jpg",
     "playcount": "1"
   },
   {
     "rank": 10,
-    "title": "Patience",
-    "artist": "Bad Suns",
-    "url": "https://www.last.fm/music/Bad+Suns/_/Patience",
-    "img": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a2/cc/2e/a2cc2e8e-4efd-853f-89da-77fcce7976d7/4050538223354.jpg/600x600bb.jpg",
+    "title": "Also Unified Field",
+    "artist": "Emperor X",
+    "url": "https://www.last.fm/music/Emperor+X/_/Also+Unified+Field",
+    "img": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1d/51/5b/1d515b51-91c5-ea42-9756-2d9bc00366f5/64060.jpg/600x600bb.jpg",
     "playcount": "1"
   }
 ]
