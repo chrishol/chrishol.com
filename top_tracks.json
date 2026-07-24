@@ -1,14 +1,6 @@
 [
   {
     "rank": 1,
-    "title": "Box Store",
-    "artist": "Wild Pink",
-    "url": "https://www.last.fm/music/Wild+Pink/_/Box+Store",
-    "img": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/64/a4/53/64a45392-5e27-3233-d535-792de8d61eda/126675.jpg/600x600bb.jpg",
-    "playcount": "3"
-  },
-  {
-    "rank": 2,
     "title": "Oh My Days",
     "artist": "Orville Peck",
     "url": "https://www.last.fm/music/Orville+Peck/_/Oh+My+Days",
@@ -16,15 +8,15 @@
     "playcount": "2"
   },
   {
-    "rank": 3,
-    "title": "Anything He Was",
-    "artist": "Tiny Habits",
-    "url": "https://www.last.fm/music/Tiny+Habits/_/Anything+He+Was",
-    "img": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/9c/04/dc/9c04dc0a-f2e7-48f0-35a7-3cc568c2f143/823375232070_Cover.jpg/600x600bb.jpg",
+    "rank": 2,
+    "title": "Box Store",
+    "artist": "Wild Pink",
+    "url": "https://www.last.fm/music/Wild+Pink/_/Box+Store",
+    "img": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/64/a4/53/64a45392-5e27-3233-d535-792de8d61eda/126675.jpg/600x600bb.jpg",
     "playcount": "2"
   },
   {
-    "rank": 4,
+    "rank": 3,
     "title": "Dangerous Substances",
     "artist": "A Mouthful of Increasingly",
     "url": "https://www.last.fm/music/A+Mouthful+of+Increasingly/_/Dangerous+Substances",
@@ -32,7 +24,7 @@
     "playcount": "1"
   },
   {
-    "rank": 5,
+    "rank": 4,
     "title": "July",
     "artist": "Beach Bunny",
     "url": "https://www.last.fm/music/Beach+Bunny/_/July",
@@ -40,7 +32,7 @@
     "playcount": "1"
   },
   {
-    "rank": 6,
+    "rank": 5,
     "title": "Day One",
     "artist": "Bon Iver",
     "url": "https://www.last.fm/music/Bon+Iver/_/Day+One",
@@ -48,7 +40,7 @@
     "playcount": "1"
   },
   {
-    "rank": 7,
+    "rank": 6,
     "title": "Everything Is Peaceful Love",
     "artist": "Bon Iver",
     "url": "https://www.last.fm/music/Bon+Iver/_/Everything+Is+Peaceful+Love",
@@ -56,7 +48,7 @@
     "playcount": "1"
   },
   {
-    "rank": 8,
+    "rank": 7,
     "title": "From",
     "artist": "Bon Iver",
     "url": "https://www.last.fm/music/Bon+Iver/_/From",
@@ -64,7 +56,7 @@
     "playcount": "1"
   },
   {
-    "rank": 9,
+    "rank": 8,
     "title": "Bad Caffeine",
     "artist": "Charli Adams",
     "url": "https://www.last.fm/music/Charli+Adams/_/Bad+Caffeine",
@@ -72,10 +64,18 @@
     "playcount": "1"
   },
   {
-    "rank": 10,
+    "rank": 9,
     "title": "Also Unified Field",
     "artist": "Emperor X",
     "url": "https://www.last.fm/music/Emperor+X/_/Also+Unified+Field",
+    "img": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1d/51/5b/1d515b51-91c5-ea42-9756-2d9bc00366f5/64060.jpg/600x600bb.jpg",
+    "playcount": "1"
+  },
+  {
+    "rank": 10,
+    "title": "Cybertruck",
+    "artist": "Emperor X",
+    "url": "https://www.last.fm/music/Emperor+X/_/Cybertruck",
     "img": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1d/51/5b/1d515b51-91c5-ea42-9756-2d9bc00366f5/64060.jpg/600x600bb.jpg",
     "playcount": "1"
   }
