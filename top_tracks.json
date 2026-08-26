@@ -13,10 +13,18 @@
     "artist": "Westside Cowboy",
     "url": "https://www.last.fm/music/Westside+Cowboy/_/Kick+Stones+(The+Boys)",
     "img": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/a4/b9/74/a4b974d9-583a-e0d2-4e60-8f4939546ddb/26UMGIM54625.rgb.jpg/600x600bb.jpg",
-    "playcount": "5"
+    "playcount": "6"
   },
   {
     "rank": 3,
+    "title": "Paperchains",
+    "artist": "Westside Cowboy",
+    "url": "https://www.last.fm/music/Westside+Cowboy/_/Paperchains",
+    "img": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/a4/b9/74/a4b974d9-583a-e0d2-4e60-8f4939546ddb/26UMGIM54625.rgb.jpg/600x600bb.jpg",
+    "playcount": "5"
+  },
+  {
+    "rank": 4,
     "title": "The Outside",
     "artist": "Phoebe Bridgers",
     "url": "https://www.last.fm/music/Phoebe+Bridgers/_/The+Outside",
@@ -24,7 +32,7 @@
     "playcount": "4"
   },
   {
-    "rank": 4,
+    "rank": 5,
     "title": "Star Star | Pure Imagination (feat. Glen Hansard)",
     "artist": "The Frames",
     "url": "https://www.last.fm/music/The+Frames/_/Star+Star+%7C+Pure+Imagination+(feat.+Glen+Hansard)",
@@ -32,15 +40,23 @@
     "playcount": "4"
   },
   {
-    "rank": 5,
-    "title": "Paperchains",
+    "rank": 6,
+    "title": "Coyote",
     "artist": "Westside Cowboy",
-    "url": "https://www.last.fm/music/Westside+Cowboy/_/Paperchains",
+    "url": "https://www.last.fm/music/Westside+Cowboy/_/Coyote",
+    "img": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/08/38/5d/08385d46-5a7d-20c6-fb6d-eddd0fa1168a/26UMGIM54625.rgb.jpg/600x600bb.jpg",
+    "playcount": "4"
+  },
+  {
+    "rank": 7,
+    "title": "Patchwork",
+    "artist": "Westside Cowboy",
+    "url": "https://www.last.fm/music/Westside+Cowboy/_/Patchwork",
     "img": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/a4/b9/74/a4b974d9-583a-e0d2-4e60-8f4939546ddb/26UMGIM54625.rgb.jpg/600x600bb.jpg",
     "playcount": "4"
   },
   {
-    "rank": 6,
+    "rank": 8,
     "title": "Simulation Swarm",
     "artist": "Big Thief",
     "url": "https://www.last.fm/music/Big+Thief/_/Simulation+Swarm",
@@ -48,7 +64,7 @@
     "playcount": "3"
   },
   {
-    "rank": 7,
+    "rank": 9,
     "title": "Just a Day",
     "artist": "Feeder",
     "url": "https://www.last.fm/music/Feeder/_/Just+a+Day",
@@ -56,27 +72,11 @@
     "playcount": "3"
   },
   {
-    "rank": 8,
+    "rank": 10,
     "title": "Kill Me",
     "artist": "Phoebe Bridgers",
     "url": "https://www.last.fm/music/Phoebe+Bridgers/_/Kill+Me",
     "img": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/aa/9e/a6/aa9ea64a-bbf2-470e-b447-fa407b4645fa/66852.jpg/600x600bb.jpg",
-    "playcount": "3"
-  },
-  {
-    "rank": 9,
-    "title": "Love in Vain",
-    "artist": "The Rolling Stones",
-    "url": "https://www.last.fm/music/The+Rolling+Stones/_/Love+in+Vain",
-    "img": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/69/64/67/696467fe-9ed1-b65e-1016-a10d07e6464d/20UMGIM14087.rgb.jpg/600x600bb.jpg",
-    "playcount": "3"
-  },
-  {
-    "rank": 10,
-    "title": "Coyote",
-    "artist": "Westside Cowboy",
-    "url": "https://www.last.fm/music/Westside+Cowboy/_/Coyote",
-    "img": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/08/38/5d/08385d46-5a7d-20c6-fb6d-eddd0fa1168a/26UMGIM54625.rgb.jpg/600x600bb.jpg",
     "playcount": "3"
   }
 ]
