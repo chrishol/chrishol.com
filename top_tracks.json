@@ -25,6 +25,14 @@
   },
   {
     "rank": 4,
+    "title": "Things Take Time",
+    "artist": "Gang of Youths",
+    "url": "https://www.last.fm/music/Gang+of+Youths/_/Things+Take+Time",
+    "img": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/93/fc/2c/93fc2c2e-b093-e1b6-6a62-97bbe313d55d/196874633106.jpg/600x600bb.jpg",
+    "playcount": "5"
+  },
+  {
+    "rank": 5,
     "title": "Coyote",
     "artist": "Westside Cowboy",
     "url": "https://www.last.fm/music/Westside+Cowboy/_/Coyote",
@@ -32,7 +40,7 @@
     "playcount": "5"
   },
   {
-    "rank": 5,
+    "rank": 6,
     "title": "Dobro",
     "artist": "Westside Cowboy",
     "url": "https://www.last.fm/music/Westside+Cowboy/_/Dobro",
@@ -40,7 +48,7 @@
     "playcount": "5"
   },
   {
-    "rank": 6,
+    "rank": 7,
     "title": "Patchwork",
     "artist": "Westside Cowboy",
     "url": "https://www.last.fm/music/Westside+Cowboy/_/Patchwork",
@@ -48,7 +56,7 @@
     "playcount": "5"
   },
   {
-    "rank": 7,
+    "rank": 8,
     "title": "The Outside",
     "artist": "Phoebe Bridgers",
     "url": "https://www.last.fm/music/Phoebe+Bridgers/_/The+Outside",
@@ -56,27 +64,19 @@
     "playcount": "4"
   },
   {
-    "rank": 8,
+    "rank": 9,
+    "title": "Love Ruins Everything",
+    "artist": "Tiny Habits",
+    "url": "https://www.last.fm/music/Tiny+Habits/_/Love+Ruins+Everything",
+    "img": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/c0/d4/ef/c0d4efc0-9c55-70bc-3572-07dc1523ff68/823375232063_Cover.jpg/600x600bb.jpg",
+    "playcount": "4"
+  },
+  {
+    "rank": 10,
     "title": "Well Done Kid, You Did It",
     "artist": "Westside Cowboy",
     "url": "https://www.last.fm/music/Westside+Cowboy/_/Well+Done+Kid,+You+Did+It",
     "img": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/a4/b9/74/a4b974d9-583a-e0d2-4e60-8f4939546ddb/26UMGIM54625.rgb.jpg/600x600bb.jpg",
     "playcount": "4"
-  },
-  {
-    "rank": 9,
-    "title": "Worried Age",
-    "artist": "Westside Cowboy",
-    "url": "https://www.last.fm/music/Westside+Cowboy/_/Worried+Age",
-    "img": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/a4/b9/74/a4b974d9-583a-e0d2-4e60-8f4939546ddb/26UMGIM54625.rgb.jpg/600x600bb.jpg",
-    "playcount": "4"
-  },
-  {
-    "rank": 10,
-    "title": "Just a Day",
-    "artist": "Feeder",
-    "url": "https://www.last.fm/music/Feeder/_/Just+a+Day",
-    "img": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/ea/3d/2e/ea3d2e30-7d08-2f99-153a-62f5f4409164/4050538162943.jpg/600x600bb.jpg",
-    "playcount": "3"
   }
 ]
