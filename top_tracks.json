@@ -17,14 +17,6 @@
   },
   {
     "rank": 3,
-    "title": "Los Angeles",
-    "artist": "Big Thief",
-    "url": "https://www.last.fm/music/Big+Thief/_/Los+Angeles",
-    "img": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/40/40/53/404053dc-586e-f51c-8de9-446eef5af471/191400085077.png/600x600bb.jpg",
-    "playcount": "7"
-  },
-  {
-    "rank": 4,
     "title": "End of August",
     "artist": "Noah Kahan",
     "url": "https://www.last.fm/music/Noah+Kahan/_/End+of+August",
@@ -32,7 +24,7 @@
     "playcount": "7"
   },
   {
-    "rank": 5,
+    "rank": 4,
     "title": "Beach Front Property",
     "artist": "Spanish Love Songs",
     "url": "https://www.last.fm/music/Spanish+Love+Songs/_/Beach+Front+Property",
@@ -40,7 +32,7 @@
     "playcount": "7"
   },
   {
-    "rank": 6,
+    "rank": 5,
     "title": "Clean-Up Crew",
     "artist": "Spanish Love Songs",
     "url": "https://www.last.fm/music/Spanish+Love+Songs/_/Clean-Up+Crew",
@@ -48,15 +40,7 @@
     "playcount": "7"
   },
   {
-    "rank": 7,
-    "title": "Good American",
-    "artist": "Spanish Love Songs",
-    "url": "https://www.last.fm/music/Spanish+Love+Songs/_/Good+American",
-    "img": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/3d/d8/63/3dd863b6-bb8d-ca04-b591-a1c98b53ee4c/885288046861.jpg/600x600bb.jpg",
-    "playcount": "7"
-  },
-  {
-    "rank": 8,
+    "rank": 6,
     "title": "Optimism (As a Radical Life Choice)",
     "artist": "Spanish Love Songs",
     "url": "https://www.last.fm/music/Spanish+Love+Songs/_/Optimism+(As+a+Radical+Life+Choice)",
@@ -64,7 +48,15 @@
     "playcount": "7"
   },
   {
-    "rank": 9,
+    "rank": 7,
+    "title": "Los Angeles",
+    "artist": "Big Thief",
+    "url": "https://www.last.fm/music/Big+Thief/_/Los+Angeles",
+    "img": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/40/40/53/404053dc-586e-f51c-8de9-446eef5af471/191400085077.png/600x600bb.jpg",
+    "playcount": "6"
+  },
+  {
+    "rank": 8,
     "title": "Not Bad for New Jersey",
     "artist": "Brian Fallon",
     "url": "https://www.last.fm/music/Brian+Fallon/_/Not+Bad+for+New+Jersey",
@@ -72,11 +64,19 @@
     "playcount": "6"
   },
   {
-    "rank": 10,
+    "rank": 9,
     "title": "The X-panded Universe",
     "artist": "Father John Misty",
     "url": "https://www.last.fm/music/Father+John+Misty/_/The+X-panded+Universe",
     "img": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/cf/ee/d0/cfeed04e-f2cd-74ad-a21f-343d20b0da22/098787965360.png/600x600bb.jpg",
+    "playcount": "6"
+  },
+  {
+    "rank": 10,
+    "title": "Do Something Productive",
+    "artist": "Medium Build",
+    "url": "https://www.last.fm/music/Medium+Build/_/Do+Something+Productive",
+    "img": null,
     "playcount": "6"
   }
 ]
