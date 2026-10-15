@@ -41,6 +41,14 @@
   },
   {
     "rank": 6,
+    "title": "Dancing in the Club (MJ Lenderman Version)",
+    "artist": "This is Lorelei",
+    "url": "https://www.last.fm/music/This+is+Lorelei/_/Dancing+in+the+Club+(MJ+Lenderman+Version)",
+    "img": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/43/86/37/438637b7-d063-02d4-e1bd-5b3c6be6f9aa/191401221771.png/600x600bb.jpg",
+    "playcount": "7"
+  },
+  {
+    "rank": 7,
     "title": "Not Bad for New Jersey",
     "artist": "Brian Fallon",
     "url": "https://www.last.fm/music/Brian+Fallon/_/Not+Bad+for+New+Jersey",
@@ -48,7 +56,7 @@
     "playcount": "6"
   },
   {
-    "rank": 7,
+    "rank": 8,
     "title": "The X-panded Universe",
     "artist": "Father John Misty",
     "url": "https://www.last.fm/music/Father+John+Misty/_/The+X-panded+Universe",
@@ -56,7 +64,7 @@
     "playcount": "6"
   },
   {
-    "rank": 8,
+    "rank": 9,
     "title": "Do Something Productive",
     "artist": "Medium Build",
     "url": "https://www.last.fm/music/Medium+Build/_/Do+Something+Productive",
@@ -64,19 +72,11 @@
     "playcount": "6"
   },
   {
-    "rank": 9,
+    "rank": 10,
     "title": "Dull",
     "artist": "Microwave",
     "url": "https://www.last.fm/music/Microwave/_/Dull",
     "img": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/95/3a/0a/953a0ac5-36bb-9fb2-d4ba-c6fde1d78cb9/109619.jpg/600x600bb.jpg",
-    "playcount": "6"
-  },
-  {
-    "rank": 10,
-    "title": "Mi Corazón",
-    "artist": "Motion City Soundtrack",
-    "url": "https://www.last.fm/music/Motion+City+Soundtrack/_/Mi+Coraz%C3%B3n",
-    "img": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/26/c9/41/26c94153-3cf6-1da9-5116-62a71c0777fc/0045778812462.png/600x600bb.jpg",
     "playcount": "6"
   }
 ]
