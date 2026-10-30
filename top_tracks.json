@@ -5,26 +5,10 @@
     "artist": "Spanish Love Songs",
     "url": "https://www.last.fm/music/Spanish+Love+Songs/_/Welcome+to+Hell",
     "img": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/a6/dd/17/a6dd178f-899c-148d-7212-9f284cb7c308/19UM1IM00944.rgb.jpg/600x600bb.jpg",
-    "playcount": "11"
+    "playcount": "12"
   },
   {
     "rank": 2,
-    "title": "Joana, in Five Acts",
-    "artist": "Spanish Love Songs",
-    "url": "https://www.last.fm/music/Spanish+Love+Songs/_/Joana,+in+Five+Acts",
-    "img": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/f0/d6/f5/f0d6f5a3-7d58-e908-246e-71baa21d3db8/artwork.jpg/600x600bb.jpg",
-    "playcount": "8"
-  },
-  {
-    "rank": 3,
-    "title": "End of August",
-    "artist": "Noah Kahan",
-    "url": "https://www.last.fm/music/Noah+Kahan/_/End+of+August",
-    "img": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/25/85/97/25859703-d8c0-aff9-5561-f6170e0699b3/26UMGIM02802.rgb.jpg/600x600bb.jpg",
-    "playcount": "7"
-  },
-  {
-    "rank": 4,
     "title": "Beach Front Property",
     "artist": "Spanish Love Songs",
     "url": "https://www.last.fm/music/Spanish+Love+Songs/_/Beach+Front+Property",
@@ -32,51 +16,67 @@
     "playcount": "7"
   },
   {
-    "rank": 5,
-    "title": "Clean-Up Crew",
-    "artist": "Spanish Love Songs",
-    "url": "https://www.last.fm/music/Spanish+Love+Songs/_/Clean-Up+Crew",
-    "img": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/e7/3f/9b/e73f9bf7-d0b8-a987-9a2d-ea1c426eac09/886446320748.jpg/600x600bb.jpg",
-    "playcount": "7"
+    "rank": 3,
+    "title": "Free At Last",
+    "artist": "PUP",
+    "url": "https://www.last.fm/music/PUP/_/Free+At+Last",
+    "img": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/ee/8a/20/ee8a2080-5e09-7341-fbdc-f861ddcab01d/4050538469783.jpg/600x600bb.jpg",
+    "playcount": "6"
   },
   {
-    "rank": 6,
+    "rank": 4,
     "title": "Doom Tripping",
     "artist": "Spanish Love Songs",
     "url": "https://www.last.fm/music/Spanish+Love+Songs/_/Doom+Tripping",
     "img": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/3d/d8/63/3dd863b6-bb8d-ca04-b591-a1c98b53ee4c/885288046861.jpg/600x600bb.jpg",
-    "playcount": "7"
+    "playcount": "6"
+  },
+  {
+    "rank": 5,
+    "title": "Joana, in Five Acts",
+    "artist": "Spanish Love Songs",
+    "url": "https://www.last.fm/music/Spanish+Love+Songs/_/Joana,+in+Five+Acts",
+    "img": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/f0/d6/f5/f0d6f5a3-7d58-e908-246e-71baa21d3db8/artwork.jpg/600x600bb.jpg",
+    "playcount": "6"
+  },
+  {
+    "rank": 6,
+    "title": "Dancing in the Club (MJ Lenderman Version)",
+    "artist": "This is Lorelei",
+    "url": "https://www.last.fm/music/This+is+Lorelei/_/Dancing+in+the+Club+(MJ+Lenderman+Version)",
+    "img": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/43/86/37/438637b7-d063-02d4-e1bd-5b3c6be6f9aa/191401221771.png/600x600bb.jpg",
+    "playcount": "6"
   },
   {
     "rank": 7,
-    "title": "Optimism (As a Radical Life Choice)",
-    "artist": "Spanish Love Songs",
-    "url": "https://www.last.fm/music/Spanish+Love+Songs/_/Optimism+(As+a+Radical+Life+Choice)",
+    "title": "hospital bed",
+    "artist": "saturdays at your place",
+    "url": "https://www.last.fm/music/saturdays+at+your+place/_/hospital+bed",
     "img": null,
-    "playcount": "7"
+    "playcount": "5"
   },
   {
     "rank": 8,
-    "title": "Not Bad for New Jersey",
-    "artist": "Brian Fallon",
-    "url": "https://www.last.fm/music/Brian+Fallon/_/Not+Bad+for+New+Jersey",
-    "img": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/2b/c0/93/2bc0936d-c019-7aca-6041-65e31cf47651/820233022392.jpg/600x600bb.jpg",
-    "playcount": "6"
+    "title": "Clean-Up Crew",
+    "artist": "Spanish Love Songs",
+    "url": "https://www.last.fm/music/Spanish+Love+Songs/_/Clean-Up+Crew",
+    "img": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/e7/3f/9b/e73f9bf7-d0b8-a987-9a2d-ea1c426eac09/886446320748.jpg/600x600bb.jpg",
+    "playcount": "5"
   },
   {
     "rank": 9,
-    "title": "The X-panded Universe",
-    "artist": "Father John Misty",
-    "url": "https://www.last.fm/music/Father+John+Misty/_/The+X-panded+Universe",
-    "img": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/cf/ee/d0/cfeed04e-f2cd-74ad-a21f-343d20b0da22/098787965360.png/600x600bb.jpg",
-    "playcount": "6"
+    "title": "Lifers",
+    "artist": "Spanish Love Songs",
+    "url": "https://www.last.fm/music/Spanish+Love+Songs/_/Lifers",
+    "img": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/ea/a6/50/eaa650b8-bfc3-89e8-f2c8-1d076e56a9a5/197188084141.jpg/600x600bb.jpg",
+    "playcount": "5"
   },
   {
     "rank": 10,
-    "title": "Do Something Productive",
-    "artist": "Medium Build",
-    "url": "https://www.last.fm/music/Medium+Build/_/Do+Something+Productive",
-    "img": null,
-    "playcount": "6"
+    "title": "Nagano",
+    "artist": "Tyler Lyle",
+    "url": "https://www.last.fm/music/Tyler+Lyle/_/Nagano",
+    "img": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/61/94/37/619437c1-5778-5b86-b119-3d08fed54ca9/881453686092_cover.jpg/600x600bb.jpg",
+    "playcount": "5"
   }
 ]
