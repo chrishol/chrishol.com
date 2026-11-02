@@ -17,14 +17,6 @@
   },
   {
     "rank": 3,
-    "title": "Nagano",
-    "artist": "Tyler Lyle",
-    "url": "https://www.last.fm/music/Tyler+Lyle/_/Nagano",
-    "img": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/61/94/37/619437c1-5778-5b86-b119-3d08fed54ca9/881453686092_cover.jpg/600x600bb.jpg",
-    "playcount": "5"
-  },
-  {
-    "rank": 4,
     "title": "Japan",
     "artist": "Fontaines D.C.",
     "url": "https://www.last.fm/music/Fontaines+D.C./_/Japan",
@@ -32,11 +24,19 @@
     "playcount": "4"
   },
   {
-    "rank": 5,
+    "rank": 4,
     "title": "Doom Tripping",
     "artist": "Spanish Love Songs",
     "url": "https://www.last.fm/music/Spanish+Love+Songs/_/Doom+Tripping",
     "img": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/3d/d8/63/3dd863b6-bb8d-ca04-b591-a1c98b53ee4c/885288046861.jpg/600x600bb.jpg",
+    "playcount": "4"
+  },
+  {
+    "rank": 5,
+    "title": "Nagano",
+    "artist": "Tyler Lyle",
+    "url": "https://www.last.fm/music/Tyler+Lyle/_/Nagano",
+    "img": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/61/94/37/619437c1-5778-5b86-b119-3d08fed54ca9/881453686092_cover.jpg/600x600bb.jpg",
     "playcount": "4"
   },
   {
